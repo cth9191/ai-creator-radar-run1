@@ -1,0 +1,766 @@
+{
+ "grabbed_at": "2026-10-16T04:30:00Z",
+ "source": "pc",
+ "queries": [
+  "AI news",
+  "Claude Code"
+ ],
+ "posts": [
+  {
+   "id": "fx1001",
+   "url": "https://x.com/example_newsdesk/status/1001",
+   "author": {
+    "handle": "example_newsdesk",
+    "name": "Example Newsdesk",
+    "followers": 310000,
+    "verified": true
+   },
+   "text": "BREAKING: OpenAI just released GPT-5.5 with a 1M token context window and native computer use. Rolling out to ChatGPT Plus today.",
+   "created_at": "2026-10-15T19:00:00Z",
+   "likes": 4200,
+   "reposts": 900,
+   "replies": 350,
+   "quotes": 150,
+   "views": 168000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1002",
+   "url": "https://x.com/example_builder/status/1002",
+   "author": {
+    "handle": "example_builder",
+    "name": "Example Builder",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "GPT-5.5 is out. First impressions: much better at long refactors, way less sycophantic.",
+   "created_at": "2026-10-15T19:30:00Z",
+   "likes": 1800,
+   "reposts": 240,
+   "replies": 150,
+   "quotes": 40,
+   "views": 72000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1003",
+   "url": "https://x.com/example_evals/status/1003",
+   "author": {
+    "handle": "example_evals",
+    "name": "Example Evals",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "GPT-5.5 benchmarks: 79% on SWE-bench Verified, new high on ARC-AGI-2. Full table below \ud83d\udc47 https://example.com/x",
+   "created_at": "2026-10-15T20:18:00Z",
+   "likes": 2600,
+   "reposts": 610,
+   "replies": 216,
+   "quotes": 101,
+   "views": 104000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1004",
+   "url": "https://x.com/example_devrel/status/1004",
+   "author": {
+    "handle": "example_devrel",
+    "name": "Example DevRel",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "The GPT-5.5 API pricing is $3 / $12 per million tokens. Cheaper than I expected from OpenAI",
+   "created_at": "2026-10-15T21:30:00Z",
+   "likes": 1200,
+   "reposts": 180,
+   "replies": 100,
+   "quotes": 30,
+   "views": 48000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1005",
+   "url": "https://x.com/example_skeptic/status/1005",
+   "author": {
+    "handle": "example_skeptic",
+    "name": "Example Skeptic",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "hot take: gpt-5.5 is a solid upgrade but the launch demo was cherry-picked",
+   "created_at": "2026-10-15T22:24:00Z",
+   "likes": 650,
+   "reposts": 70,
+   "replies": 54,
+   "quotes": 11,
+   "views": 26000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1006",
+   "url": "https://x.com/example_ainews/status/1006",
+   "author": {
+    "handle": "example_ainews",
+    "name": "Example AI News",
+    "followers": 180000,
+    "verified": true
+   },
+   "text": "OpenAI GPT-5.5 is now live in the API and Codex. Here's everything that changed \ud83e\uddf5",
+   "created_at": "2026-10-16T00:30:00Z",
+   "likes": 3100,
+   "reposts": 720,
+   "replies": 258,
+   "quotes": 120,
+   "views": 124000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1007",
+   "url": "https://x.com/example_coder/status/1007",
+   "author": {
+    "handle": "example_coder",
+    "name": "Example Coder",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Spent the morning with GPT-5.5 in Codex CLI. It one-shot a migration that took me a day last month.",
+   "created_at": "2026-10-16T02:00:00Z",
+   "likes": 900,
+   "reposts": 110,
+   "replies": 75,
+   "quotes": 18,
+   "views": 36000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1008",
+   "url": "https://x.com/example_founder/status/1008",
+   "author": {
+    "handle": "example_founder",
+    "name": "Example Founder",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "We switched our agent to GPT-5.5 overnight. Latency down 30%.",
+   "created_at": "2026-10-16T03:30:00Z",
+   "likes": 540,
+   "reposts": 60,
+   "replies": 45,
+   "quotes": 10,
+   "views": 21600,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1009",
+   "url": "https://x.com/example_labwatch/status/1009",
+   "author": {
+    "handle": "example_labwatch",
+    "name": "Example Lab Watch",
+    "followers": 220000,
+    "verified": true
+   },
+   "text": "Anthropic ships Claude Opus 4.7. Better agentic coding, 1M context by default.",
+   "created_at": "2026-10-15T17:30:00Z",
+   "likes": 3800,
+   "reposts": 820,
+   "replies": 316,
+   "quotes": 136,
+   "views": 152000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1010",
+   "url": "https://x.com/example_builder/status/1010",
+   "author": {
+    "handle": "example_builder",
+    "name": "Example Builder",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Claude Opus 4.7 just fixed a bug that GPT-5 and I could not find for two days",
+   "created_at": "2026-10-15T18:18:00Z",
+   "likes": 2100,
+   "reposts": 260,
+   "replies": 175,
+   "quotes": 43,
+   "views": 84000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1011",
+   "url": "https://x.com/example_evals/status/1011",
+   "author": {
+    "handle": "example_evals",
+    "name": "Example Evals",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Opus 4.7 benchmarks are in: tops Terminal-Bench and SWE-bench Pro. Anthropic cooked.",
+   "created_at": "2026-10-15T18:42:00Z",
+   "likes": 1900,
+   "reposts": 400,
+   "replies": 158,
+   "quotes": 66,
+   "views": 76000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1012",
+   "url": "https://x.com/example_tinkerer/status/1012",
+   "author": {
+    "handle": "example_tinkerer",
+    "name": "Example Tinkerer",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Is it just me or is Claude Opus 4.7 way faster than 4.6?",
+   "created_at": "2026-10-15T20:30:00Z",
+   "likes": 420,
+   "reposts": 30,
+   "replies": 35,
+   "quotes": 5,
+   "views": 16800,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1013",
+   "url": "https://x.com/example_ainews/status/1013",
+   "author": {
+    "handle": "example_ainews",
+    "name": "Example AI News",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Anthropic's Claude Opus 4.7 is available today on the API, Bedrock and Vertex AI.",
+   "created_at": "2026-10-15T21:00:00Z",
+   "likes": 1300,
+   "reposts": 300,
+   "replies": 108,
+   "quotes": 50,
+   "views": 52000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1014",
+   "url": "https://x.com/example_pm/status/1014",
+   "author": {
+    "handle": "example_pm",
+    "name": "Example PM",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Opus 4.7 pricing stays the same as Opus 4.6. Nice.",
+   "created_at": "2026-10-15T23:30:00Z",
+   "likes": 380,
+   "reposts": 25,
+   "replies": 31,
+   "quotes": 4,
+   "views": 15200,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1015",
+   "url": "https://x.com/example_googlewatch/status/1015",
+   "author": {
+    "handle": "example_googlewatch",
+    "name": "Example Google Watch",
+    "followers": 150000,
+    "verified": true
+   },
+   "text": "Google DeepMind drops Gemini 3 Pro preview in AI Studio. Huge jump on multimodal reasoning.",
+   "created_at": "2026-10-15T08:30:00Z",
+   "likes": 2900,
+   "reposts": 600,
+   "replies": 241,
+   "quotes": 100,
+   "views": 116000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1016",
+   "url": "https://x.com/example_builder/status/1016",
+   "author": {
+    "handle": "example_builder",
+    "name": "Example Builder",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Gemini 3 Pro one-shots a whole 3D game from a sketch. Wild.",
+   "created_at": "2026-10-15T09:30:00Z",
+   "likes": 2200,
+   "reposts": 500,
+   "replies": 183,
+   "quotes": 83,
+   "views": 88000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1017",
+   "url": "https://x.com/example_evals/status/1017",
+   "author": {
+    "handle": "example_evals",
+    "name": "Example Evals",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Gemini 3 benchmarks: leads LMArena by 40 points",
+   "created_at": "2026-10-15T10:30:00Z",
+   "likes": 1500,
+   "reposts": 310,
+   "replies": 125,
+   "quotes": 51,
+   "views": 60000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1018",
+   "url": "https://x.com/example_dev/status/1018",
+   "author": {
+    "handle": "example_dev",
+    "name": "Example Dev",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Trying Gemini 3 Pro in the Gemini CLI right now, impressions soon",
+   "created_at": "2026-10-15T13:30:00Z",
+   "likes": 300,
+   "reposts": 20,
+   "replies": 25,
+   "quotes": 3,
+   "views": 12000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1019",
+   "url": "https://x.com/example_ainews/status/1019",
+   "author": {
+    "handle": "example_ainews",
+    "name": "Example AI News",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Gemini 3 Pro is free in AI Studio for now. Go try it.",
+   "created_at": "2026-10-15T15:30:00Z",
+   "likes": 900,
+   "reposts": 150,
+   "replies": 75,
+   "quotes": 25,
+   "views": 36000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1020",
+   "url": "https://x.com/example_creator/status/1020",
+   "author": {
+    "handle": "example_creator",
+    "name": "Example Creator",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "OpenAI's Sora 3 makes 60 second videos with synced dialogue. The demos are unreal.",
+   "created_at": "2026-10-15T22:30:00Z",
+   "likes": 2700,
+   "reposts": 650,
+   "replies": 225,
+   "quotes": 108,
+   "views": 108000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1021",
+   "url": "https://x.com/example_filmmaker/status/1021",
+   "author": {
+    "handle": "example_filmmaker",
+    "name": "Example Filmmaker",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Sora 3 is the first video model where the hands and physics hold up for a full minute",
+   "created_at": "2026-10-15T23:18:00Z",
+   "likes": 1400,
+   "reposts": 300,
+   "replies": 116,
+   "quotes": 50,
+   "views": 56000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1022",
+   "url": "https://x.com/example_ainews/status/1022",
+   "author": {
+    "handle": "example_ainews",
+    "name": "Example AI News",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Sora 3 app hits #1 on the App Store within hours",
+   "created_at": "2026-10-16T01:00:00Z",
+   "likes": 1100,
+   "reposts": 210,
+   "replies": 91,
+   "quotes": 35,
+   "views": 44000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1023",
+   "url": "https://x.com/example_skeptic/status/1023",
+   "author": {
+    "handle": "example_skeptic",
+    "name": "Example Skeptic",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Sora 3 is impressive but what does this do to stock footage creators?",
+   "created_at": "2026-10-16T02:30:00Z",
+   "likes": 500,
+   "reposts": 60,
+   "replies": 41,
+   "quotes": 10,
+   "views": 20000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1024",
+   "url": "https://x.com/example_cc_fan/status/1024",
+   "author": {
+    "handle": "example_cc_fan",
+    "name": "Example CC Fan",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Claude Code 2.1 adds plugin marketplaces and hooks you can share with your team. Game changer for agentic workflows.",
+   "created_at": "2026-10-16T01:30:00Z",
+   "likes": 1600,
+   "reposts": 280,
+   "replies": 133,
+   "quotes": 46,
+   "views": 64000,
+   "query": "Claude Code"
+  },
+  {
+   "id": "fx1025",
+   "url": "https://x.com/example_dev/status/1025",
+   "author": {
+    "handle": "example_dev",
+    "name": "Example Dev",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Built my first Claude Code plugin in 10 minutes. Plugin marketplace is so good.",
+   "created_at": "2026-10-16T01:54:00Z",
+   "likes": 700,
+   "reposts": 90,
+   "replies": 58,
+   "quotes": 15,
+   "views": 28000,
+   "query": "Claude Code"
+  },
+  {
+   "id": "fx1026",
+   "url": "https://x.com/example_tinkerer/status/1026",
+   "author": {
+    "handle": "example_tinkerer",
+    "name": "Example Tinkerer",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Claude Code plugins + subagents = my whole review pipeline runs itself now",
+   "created_at": "2026-10-16T02:30:00Z",
+   "likes": 650,
+   "reposts": 85,
+   "replies": 54,
+   "quotes": 14,
+   "views": 26000,
+   "query": "Claude Code"
+  },
+  {
+   "id": "fx1027",
+   "url": "https://x.com/example_teamlead/status/1027",
+   "author": {
+    "handle": "example_teamlead",
+    "name": "Example Team Lead",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "We rolled out a shared Claude Code plugin marketplace for the team today",
+   "created_at": "2026-10-16T03:18:00Z",
+   "likes": 420,
+   "reposts": 50,
+   "replies": 35,
+   "quotes": 8,
+   "views": 16800,
+   "query": "Claude Code"
+  },
+  {
+   "id": "fx1028",
+   "url": "https://x.com/example_newbie/status/1028",
+   "author": {
+    "handle": "example_newbie",
+    "name": "Example Newbie",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "How do Claude Code plugins differ from MCP servers? Confused",
+   "created_at": "2026-10-16T03:54:00Z",
+   "likes": 210,
+   "reposts": 12,
+   "replies": 17,
+   "quotes": 2,
+   "views": 8400,
+   "query": "Claude Code"
+  },
+  {
+   "id": "fx1029",
+   "url": "https://x.com/example_markets/status/1029",
+   "author": {
+    "handle": "example_markets",
+    "name": "Example Markets",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "$NVDA beats again: data center revenue up 60% on Blackwell demand",
+   "created_at": "2026-10-15T12:30:00Z",
+   "likes": 1800,
+   "reposts": 420,
+   "replies": 150,
+   "quotes": 70,
+   "views": 72000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1030",
+   "url": "https://x.com/example_trader/status/1030",
+   "author": {
+    "handle": "example_trader",
+    "name": "Example Trader",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "$NVDA guidance is insane. AI capex is not slowing down.",
+   "created_at": "2026-10-15T13:30:00Z",
+   "likes": 900,
+   "reposts": 140,
+   "replies": 75,
+   "quotes": 23,
+   "views": 36000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1031",
+   "url": "https://x.com/example_markets/status/1031",
+   "author": {
+    "handle": "example_markets",
+    "name": "Example Markets",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Nvidia CEO Jensen Huang: demand for Blackwell 'is off the charts'",
+   "created_at": "2026-10-15T14:30:00Z",
+   "likes": 700,
+   "reposts": 100,
+   "replies": 58,
+   "quotes": 16,
+   "views": 28000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1032",
+   "url": "https://x.com/example_oss/status/1032",
+   "author": {
+    "handle": "example_oss",
+    "name": "Example OSS",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "DeepSeek V4 open weights are on Hugging Face. MIT license, 1.2T params MoE.",
+   "created_at": "2026-10-15T02:30:00Z",
+   "likes": 2400,
+   "reposts": 700,
+   "replies": 200,
+   "quotes": 116,
+   "views": 96000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1033",
+   "url": "https://x.com/example_localai/status/1033",
+   "author": {
+    "handle": "example_localai",
+    "name": "Example Local AI",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Running DeepSeek V4 locally on 8x H200 \u2014 it matches GPT-5 on most coding evals",
+   "created_at": "2026-10-15T03:30:00Z",
+   "likes": 1100,
+   "reposts": 260,
+   "replies": 91,
+   "quotes": 43,
+   "views": 44000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1034",
+   "url": "https://x.com/example_ainews/status/1034",
+   "author": {
+    "handle": "example_ainews",
+    "name": "Example AI News",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "DeepSeek V4 pricing is 10x cheaper than frontier APIs",
+   "created_at": "2026-10-15T05:30:00Z",
+   "likes": 1300,
+   "reposts": 300,
+   "replies": 108,
+   "quotes": 50,
+   "views": 52000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1035",
+   "url": "https://x.com/example_researcher/status/1035",
+   "author": {
+    "handle": "example_researcher",
+    "name": "Example Researcher",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "The DeepSeek V4 paper has a really clever sparse attention trick",
+   "created_at": "2026-10-15T08:30:00Z",
+   "likes": 800,
+   "reposts": 160,
+   "replies": 66,
+   "quotes": 26,
+   "views": 32000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1036",
+   "url": "https://x.com/example_ide/status/1036",
+   "author": {
+    "handle": "example_ide",
+    "name": "Example IDE",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Cursor 2.0 is out with a multi-agent editor and its own coding model",
+   "created_at": "2026-10-15T23:00:00Z",
+   "likes": 1200,
+   "reposts": 200,
+   "replies": 100,
+   "quotes": 33,
+   "views": 48000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1037",
+   "url": "https://x.com/example_dev2/status/1037",
+   "author": {
+    "handle": "example_dev2",
+    "name": "Example Dev Two",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Cursor 2.0 agents tab is great, running 4 agents in parallel",
+   "created_at": "2026-10-16T00:00:00Z",
+   "likes": 600,
+   "reposts": 70,
+   "replies": 50,
+   "quotes": 11,
+   "views": 24000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1038",
+   "url": "https://x.com/example_ide/status/1038",
+   "author": {
+    "handle": "example_ide",
+    "name": "Example IDE",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Cursor 2.0 pricing changes explained",
+   "created_at": "2026-10-16T00:42:00Z",
+   "likes": 400,
+   "reposts": 40,
+   "replies": 33,
+   "quotes": 6,
+   "views": 16000,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1039",
+   "url": "https://x.com/example_random/status/1039",
+   "author": {
+    "handle": "example_random",
+    "name": "Example Random",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "good morning to everyone shipping today",
+   "created_at": "2026-10-16T01:30:00Z",
+   "likes": 80,
+   "reposts": 3,
+   "replies": 6,
+   "quotes": 0,
+   "views": 3200,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1040",
+   "url": "https://x.com/example_random2/status/1040",
+   "author": {
+    "handle": "example_random2",
+    "name": "Example Random Two",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "what is the best laptop for running local models? asking for a friend",
+   "created_at": "2026-10-15T21:30:00Z",
+   "likes": 40,
+   "reposts": 2,
+   "replies": 3,
+   "quotes": 0,
+   "views": 1600,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1041",
+   "url": "https://x.com/example_random3/status/1041",
+   "author": {
+    "handle": "example_random3",
+    "name": "Example Random Three",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Wrote a long blog post about prompt engineering habits",
+   "created_at": "2026-10-15T16:30:00Z",
+   "likes": 120,
+   "reposts": 8,
+   "replies": 10,
+   "quotes": 1,
+   "views": 4800,
+   "query": "AI news"
+  },
+  {
+   "id": "fx1042",
+   "url": "https://x.com/example_random4/status/1042",
+   "author": {
+    "handle": "example_random4",
+    "name": "Example Random Four",
+    "followers": 20000,
+    "verified": false
+   },
+   "text": "Coffee and evals, the usual Thursday",
+   "created_at": "2026-10-16T03:00:00Z",
+   "likes": 30,
+   "reposts": 1,
+   "replies": 2,
+   "quotes": 0,
+   "views": 1200,
+   "query": "AI news"
+  }
+ ]
+}

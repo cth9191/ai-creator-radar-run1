@@ -1,0 +1,174 @@
+{
+ "generated_at": "2026-10-16T06:07:00Z",
+ "searches_used": 7,
+ "coverage": {
+  "gpt-5-5": {
+   "query": "OpenAI GPT-5.5 launch",
+   "video_count": 2,
+   "total_views": 50000,
+   "videos": [
+    {
+     "id": "fxv1",
+     "url": "https://www.youtube.com/watch?v=fxv00000001",
+     "title": "GPT-5.5 is here: first look",
+     "channel": "Example Tech Daily",
+     "channel_id": "UCexample1",
+     "channel_subs": 420000,
+     "published_at": "2026-10-16T03:07:00Z",
+     "views": 41000
+    },
+    {
+     "id": "fxv2",
+     "url": "https://www.youtube.com/watch?v=fxv00000002",
+     "title": "GPT-5.5 coding test",
+     "channel": "Example Builder TV",
+     "channel_id": "UCexample2",
+     "channel_subs": 30000,
+     "published_at": "2026-10-16T04:37:00Z",
+     "views": 9000
+    }
+   ]
+  },
+  "claude-opus-4-7": {
+   "query": "Claude Opus 4.7",
+   "video_count": 0,
+   "total_views": 0,
+   "videos": []
+  },
+  "sora-3": {
+   "query": "Sora 3",
+   "video_count": 11,
+   "total_views": 550000,
+   "videos": [
+    {
+     "id": "fxv3",
+     "url": "https://www.youtube.com/watch?v=fxv00000003",
+     "title": "Sora 3 test #0",
+     "channel": "Example Creator 0",
+     "channel_id": "UCexample3",
+     "channel_subs": 200000,
+     "published_at": "2026-10-16T00:37:00Z",
+     "views": 60000
+    },
+    {
+     "id": "fxv4",
+     "url": "https://www.youtube.com/watch?v=fxv00000004",
+     "title": "Sora 3 test #1",
+     "channel": "Example Creator 1",
+     "channel_id": "UCexample4",
+     "channel_subs": 200000,
+     "published_at": "2026-10-16T01:01:00Z",
+     "views": 85000
+    },
+    {
+     "id": "fxv5",
+     "url": "https://www.youtube.com/watch?v=fxv00000005",
+     "title": "Sora 3 test #2",
+     "channel": "Example Creator 2",
+     "channel_id": "UCexample5",
+     "channel_subs": 200000,
+     "published_at": "2026-10-16T01:25:00Z",
+     "views": 110000
+    },
+    {
+     "id": "fxv6",
+     "url": "https://www.youtube.com/watch?v=fxv00000006",
+     "title": "Sora 3 test #3",
+     "channel": "Example Creator 3",
+     "channel_id": "UCexample6",
+     "channel_subs": 200000,
+     "published_at": "2026-10-16T01:49:00Z",
+     "views": 135000
+    },
+    {
+     "id": "fxv7",
+     "url": "https://www.youtube.com/watch?v=fxv00000007",
+     "title": "Sora 3 test #4",
+     "channel": "Example Creator 4",
+     "channel_id": "UCexample7",
+     "channel_subs": 200000,
+     "published_at": "2026-10-16T02:13:00Z",
+     "views": 160000
+    }
+   ]
+  },
+  "gemini-3-pro": {
+   "query": "Gemini 3 Pro",
+   "video_count": 3,
+   "total_views": 162000,
+   "videos": [
+    {
+     "id": "fxv8",
+     "url": "https://www.youtube.com/watch?v=fxv00000008",
+     "title": "Gemini 3 Pro hands-on",
+     "channel": "Example Google Fan",
+     "channel_id": "UCexample8",
+     "channel_subs": 900000,
+     "published_at": "2026-10-15T13:07:00Z",
+     "views": 120000
+    },
+    {
+     "id": "fxv9",
+     "url": "https://www.youtube.com/watch?v=fxv00000009",
+     "title": "Gemini 3 Pro vs GPT-5",
+     "channel": "Example AI Lab",
+     "channel_id": "UCexample9",
+     "channel_subs": 80000,
+     "published_at": "2026-10-15T16:07:00Z",
+     "views": 30000
+    },
+    {
+     "id": "fxv10",
+     "url": "https://www.youtube.com/watch?v=fxv00000010",
+     "title": "Gemini 3 in AI Studio",
+     "channel": "Example Small Ch",
+     "channel_id": "UCexample10",
+     "channel_subs": 4000,
+     "published_at": "2026-10-15T20:07:00Z",
+     "views": 12000
+    }
+   ]
+  },
+  "deepseek-v4": {
+   "query": "DeepSeek V4",
+   "video_count": 1,
+   "total_views": 300000,
+   "videos": [
+    {
+     "id": "fxv11",
+     "url": "https://www.youtube.com/watch?v=fxv00000011",
+     "title": "DeepSeek V3 review",
+     "channel": "Example Old Ch",
+     "channel_id": "UCexample11",
+     "channel_subs": 500000,
+     "published_at": "2026-10-14T14:07:00Z",
+     "views": 300000
+    }
+   ]
+  },
+  "claude-code": {
+   "query": "Claude Code plugin",
+   "video_count": 0,
+   "total_views": 0,
+   "videos": []
+  },
+  "cursor-2-0": {
+   "query": "Cursor 2.0",
+   "video_count": 1,
+   "total_views": 5000,
+   "videos": [
+    {
+     "id": "fxv12",
+     "url": "https://www.youtube.com/watch?v=fxv00000012",
+     "title": "Cursor 2.0 agents tab",
+     "channel": "Example IDE Tips",
+     "channel_id": "UCexample12",
+     "channel_subs": 15000,
+     "published_at": "2026-10-16T04:07:00Z",
+     "views": 5000
+    }
+   ]
+  }
+ },
+ "rising": []
+}
