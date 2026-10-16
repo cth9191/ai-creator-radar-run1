@@ -1,0 +1,166 @@
+{
+  "sample": true,
+  "generated_at": "2026-10-16T11:07:00Z",
+  "stories": [
+    {
+      "id": "sample-model-launch",
+      "title": "Sample: new frontier model launch",
+      "summary": "Placeholder story until the first real refresh.",
+      "x": {
+        "post_count": 41,
+        "engagement": 18400,
+        "first_seen": "2026-10-16T01:37:00Z",
+        "top_url": "https://x.com/example/status/1000"
+      },
+      "youtube": {
+        "video_count": 0,
+        "total_views": 0,
+        "first_video_at": null
+      },
+      "gap": {
+        "score": 92,
+        "flag": "GAP"
+      },
+      "trail": [
+        {
+          "at": "2026-10-16T01:37:00Z",
+          "platform": "x",
+          "label": "First X post",
+          "url": "https://x.com/example/status/1000"
+        }
+      ]
+    },
+    {
+      "id": "sample-agent-sdk",
+      "title": "Sample: agent SDK update",
+      "summary": "Placeholder story until the first real refresh.",
+      "x": {
+        "post_count": 22,
+        "engagement": 9100,
+        "first_seen": "2026-10-16T04:07:00Z",
+        "top_url": "https://x.com/example/status/1000"
+      },
+      "youtube": {
+        "video_count": 2,
+        "total_views": 12000,
+        "first_video_at": "2026-10-16T07:07:00Z"
+      },
+      "gap": {
+        "score": 61,
+        "flag": "GAP"
+      },
+      "trail": [
+        {
+          "at": "2026-10-16T04:07:00Z",
+          "platform": "x",
+          "label": "First X post",
+          "url": "https://x.com/example/status/1000"
+        },
+        {
+          "at": "2026-10-16T07:07:00Z",
+          "platform": "youtube",
+          "label": "YouTube video",
+          "url": "https://www.youtube.com/watch?v=sample0"
+        },
+        {
+          "at": "2026-10-16T08:07:00Z",
+          "platform": "youtube",
+          "label": "YouTube video",
+          "url": "https://www.youtube.com/watch?v=sample1"
+        }
+      ]
+    },
+    {
+      "id": "sample-open-weights",
+      "title": "Sample: open-weights coding model",
+      "summary": "Placeholder story until the first real refresh.",
+      "x": {
+        "post_count": 30,
+        "engagement": 12800,
+        "first_seen": "2026-10-16T00:07:00Z",
+        "top_url": "https://x.com/example/status/1000"
+      },
+      "youtube": {
+        "video_count": 6,
+        "total_views": 24000,
+        "first_video_at": "2026-10-16T03:07:00Z"
+      },
+      "gap": {
+        "score": 34,
+        "flag": "CLOSING"
+      },
+      "trail": [
+        {
+          "at": "2026-10-16T00:07:00Z",
+          "platform": "x",
+          "label": "First X post",
+          "url": "https://x.com/example/status/1000"
+        },
+        {
+          "at": "2026-10-16T03:07:00Z",
+          "platform": "youtube",
+          "label": "YouTube video",
+          "url": "https://www.youtube.com/watch?v=sample0"
+        },
+        {
+          "at": "2026-10-16T04:07:00Z",
+          "platform": "youtube",
+          "label": "YouTube video",
+          "url": "https://www.youtube.com/watch?v=sample1"
+        },
+        {
+          "at": "2026-10-16T05:07:00Z",
+          "platform": "youtube",
+          "label": "YouTube video",
+          "url": "https://www.youtube.com/watch?v=sample2"
+        }
+      ]
+    },
+    {
+      "id": "sample-voice-mode",
+      "title": "Sample: real-time voice API",
+      "summary": "Placeholder story until the first real refresh.",
+      "x": {
+        "post_count": 12,
+        "engagement": 4300,
+        "first_seen": "2026-10-16T05:37:00Z",
+        "top_url": "https://x.com/example/status/1000"
+      },
+      "youtube": {
+        "video_count": 14,
+        "total_views": 24000,
+        "first_video_at": "2026-10-16T08:37:00Z"
+      },
+      "gap": {
+        "score": 9,
+        "flag": "COVERED"
+      },
+      "trail": [
+        {
+          "at": "2026-10-16T05:37:00Z",
+          "platform": "x",
+          "label": "First X post",
+          "url": "https://x.com/example/status/1000"
+        },
+        {
+          "at": "2026-10-16T08:37:00Z",
+          "platform": "youtube",
+          "label": "YouTube video",
+          "url": "https://www.youtube.com/watch?v=sample0"
+        },
+        {
+          "at": "2026-10-16T09:37:00Z",
+          "platform": "youtube",
+          "label": "YouTube video",
+          "url": "https://www.youtube.com/watch?v=sample1"
+        },
+        {
+          "at": "2026-10-16T10:37:00Z",
+          "platform": "youtube",
+          "label": "YouTube video",
+          "url": "https://www.youtube.com/watch?v=sample2"
+        }
+      ]
+    }
+  ]
+}

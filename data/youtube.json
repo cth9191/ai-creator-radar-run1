@@ -1,0 +1,133 @@
+{
+  "sample": true,
+  "generated_at": "2026-10-16T11:07:00Z",
+  "searches_used": 4,
+  "coverage": {
+    "sample-model-launch": {
+      "query": "new frontier model launch",
+      "video_count": 0,
+      "total_views": 0,
+      "videos": []
+    },
+    "sample-agent-sdk": {
+      "query": "agent SDK update",
+      "video_count": 2,
+      "total_views": 12000,
+      "videos": [
+        {
+          "id": "sample-agent-sdk-v0",
+          "url": "https://www.youtube.com/watch?v=sample0",
+          "title": "Sample video",
+          "channel": "Sample Channel",
+          "channel_id": "UCsample",
+          "channel_subs": 8000,
+          "published_at": "2026-10-16T07:07:00Z",
+          "views": 4000
+        },
+        {
+          "id": "sample-agent-sdk-v1",
+          "url": "https://www.youtube.com/watch?v=sample1",
+          "title": "Sample video",
+          "channel": "Sample Channel",
+          "channel_id": "UCsample",
+          "channel_subs": 8000,
+          "published_at": "2026-10-16T08:07:00Z",
+          "views": 8000
+        }
+      ]
+    },
+    "sample-open-weights": {
+      "query": "open-weights coding model",
+      "video_count": 6,
+      "total_views": 24000,
+      "videos": [
+        {
+          "id": "sample-open-weights-v0",
+          "url": "https://www.youtube.com/watch?v=sample0",
+          "title": "Sample video",
+          "channel": "Sample Channel",
+          "channel_id": "UCsample",
+          "channel_subs": 8000,
+          "published_at": "2026-10-16T03:07:00Z",
+          "views": 4000
+        },
+        {
+          "id": "sample-open-weights-v1",
+          "url": "https://www.youtube.com/watch?v=sample1",
+          "title": "Sample video",
+          "channel": "Sample Channel",
+          "channel_id": "UCsample",
+          "channel_subs": 8000,
+          "published_at": "2026-10-16T04:07:00Z",
+          "views": 8000
+        },
+        {
+          "id": "sample-open-weights-v2",
+          "url": "https://www.youtube.com/watch?v=sample2",
+          "title": "Sample video",
+          "channel": "Sample Channel",
+          "channel_id": "UCsample",
+          "channel_subs": 8000,
+          "published_at": "2026-10-16T05:07:00Z",
+          "views": 12000
+        }
+      ]
+    },
+    "sample-voice-mode": {
+      "query": "real-time voice API",
+      "video_count": 14,
+      "total_views": 24000,
+      "videos": [
+        {
+          "id": "sample-voice-mode-v0",
+          "url": "https://www.youtube.com/watch?v=sample0",
+          "title": "Sample video",
+          "channel": "Sample Channel",
+          "channel_id": "UCsample",
+          "channel_subs": 8000,
+          "published_at": "2026-10-16T08:37:00Z",
+          "views": 4000
+        },
+        {
+          "id": "sample-voice-mode-v1",
+          "url": "https://www.youtube.com/watch?v=sample1",
+          "title": "Sample video",
+          "channel": "Sample Channel",
+          "channel_id": "UCsample",
+          "channel_subs": 8000,
+          "published_at": "2026-10-16T09:37:00Z",
+          "views": 8000
+        },
+        {
+          "id": "sample-voice-mode-v2",
+          "url": "https://www.youtube.com/watch?v=sample2",
+          "title": "Sample video",
+          "channel": "Sample Channel",
+          "channel_id": "UCsample",
+          "channel_subs": 8000,
+          "published_at": "2026-10-16T10:37:00Z",
+          "views": 12000
+        }
+      ]
+    }
+  },
+  "rising": [
+    {
+      "channel": "Sample Small Channel",
+      "channel_id": "UCsmall",
+      "channel_url": "https://www.youtube.com/@example",
+      "subs": 2100,
+      "video": {
+        "id": "sample-v9",
+        "url": "https://www.youtube.com/watch?v=sample9",
+        "title": "Sample video",
+        "channel": "Sample Channel",
+        "channel_id": "UCsample",
+        "channel_subs": 8000,
+        "published_at": "2026-10-15T15:07:00Z",
+        "views": 48000
+      },
+      "views_per_sub": 22.9
+    }
+  ]
+}

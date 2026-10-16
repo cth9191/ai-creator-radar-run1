@@ -1,0 +1,148 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "radar.schema.json",
+  "title": "radar",
+  "type": "object",
+  "properties": {
+    "sample": {
+      "type": "boolean"
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "stories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "summary": {
+            "type": "string"
+          },
+          "x": {
+            "type": "object",
+            "properties": {
+              "post_count": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "engagement": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "first_seen": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "top_url": {
+                "type": "string",
+                "pattern": "^https://"
+              }
+            },
+            "required": [
+              "post_count",
+              "engagement",
+              "first_seen"
+            ]
+          },
+          "youtube": {
+            "type": "object",
+            "properties": {
+              "video_count": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "total_views": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "first_video_at": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "format": "date-time"
+              },
+              "top_url": {
+                "type": "string",
+                "pattern": "^https://"
+              }
+            },
+            "required": [
+              "video_count"
+            ]
+          },
+          "gap": {
+            "type": "object",
+            "properties": {
+              "score": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 100
+              },
+              "flag": {
+                "enum": [
+                  "GAP",
+                  "CLOSING",
+                  "COVERED"
+                ]
+              }
+            },
+            "required": [
+              "score",
+              "flag"
+            ]
+          },
+          "trail": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "at": {
+                  "type": "string",
+                  "format": "date-time"
+                },
+                "platform": {
+                  "enum": [
+                    "x",
+                    "youtube"
+                  ]
+                },
+                "label": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string",
+                  "pattern": "^https://"
+                }
+              },
+              "required": [
+                "at",
+                "platform",
+                "label"
+              ]
+            }
+          }
+        },
+        "required": [
+          "id",
+          "title",
+          "x",
+          "youtube",
+          "gap",
+          "trail"
+        ]
+      }
+    }
+  },
+  "required": [
+    "generated_at",
+    "stories"
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "youtube.schema.json",
+  "title": "youtube",
+  "type": "object",
+  "properties": {
+    "sample": {
+      "type": "boolean"
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "searches_used": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 8
+    },
+    "coverage": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "query": {
+            "type": "string"
+          },
+          "video_count": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "total_views": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "videos": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string",
+                  "pattern": "^https://"
+                },
+                "title": {
+                  "type": "string"
+                },
+                "channel": {
+                  "type": "string"
+                },
+                "channel_id": {
+                  "type": "string"
+                },
+                "channel_subs": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "published_at": {
+                  "type": "string",
+                  "format": "date-time"
+                },
+                "views": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "thumb": {
+                  "type": "string",
+                  "pattern": "^https://"
+                }
+              },
+              "required": [
+                "id",
+                "url",
+                "title",
+                "channel",
+                "published_at",
+                "views"
+              ]
+            }
+          }
+        },
+        "required": [
+          "query",
+          "video_count",
+          "videos"
+        ]
+      }
+    },
+    "rising": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "channel": {
+            "type": "string"
+          },
+          "channel_id": {
+            "type": "string"
+          },
+          "channel_url": {
+            "type": "string",
+            "pattern": "^https://"
+          },
+          "subs": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "video": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string",
+                "pattern": "^https://"
+              },
+              "title": {
+                "type": "string"
+              },
+              "channel": {
+                "type": "string"
+              },
+              "channel_id": {
+                "type": "string"
+              },
+              "channel_subs": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "published_at": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "views": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "thumb": {
+                "type": "string",
+                "pattern": "^https://"
+              }
+            },
+            "required": [
+              "id",
+              "url",
+              "title",
+              "channel",
+              "published_at",
+              "views"
+            ]
+          },
+          "views_per_sub": {
+            "type": "number"
+          }
+        },
+        "required": [
+          "channel",
+          "subs",
+          "video"
+        ]
+      }
+    }
+  },
+  "required": [
+    "generated_at",
+    "coverage",
+    "rising"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "sample": true,
+  "generated_at": "2026-10-16T11:07:00Z",
+  "channel": {
+    "title": "Chase AI",
+    "subs": 0,
+    "views": 0,
+    "video_count": 0
+  },
+  "median_views": 10000,
+  "latest": [
+    {
+      "title": "Sample video A",
+      "published_at": "2026-10-15T05:07:00Z",
+      "views": 14000,
+      "vs_median": 1.4
+    },
+    {
+      "title": "Sample video B",
+      "published_at": "2026-10-13T03:07:00Z",
+      "views": 8000,
+      "vs_median": 0.8
+    },
+    {
+      "title": "Sample video C",
+      "published_at": "2026-10-11T01:07:00Z",
+      "views": 10000,
+      "vs_median": 1.0
+    }
+  ]
+}
