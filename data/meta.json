@@ -1,7 +1,7 @@
 {
-  "sample": true,
-  "updated_at": "2026-10-16T11:07:00Z",
+  "sample": false,
+  "updated_at": "2026-10-16T19:00:48Z",
   "x_status": "waiting_for_pc",
-  "x_grabbed_at": "2026-10-16T04:31:00Z",
+  "x_grabbed_at": null,
   "next_refresh_at": "2026-10-16T23:07:00Z"
 }

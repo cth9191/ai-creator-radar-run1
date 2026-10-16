@@ -1,28 +1,36 @@
 {
-  "sample": true,
+  "sample": false,
   "runs": [
     {
-      "at": "2026-10-16T11:07:00Z",
+      "at": "2026-10-16T19:00:48Z",
       "status": "partial",
-      "note": "Sample data, waiting for the first refresh.",
       "chips": [
         {
           "label": "X",
           "ok": false
         },
         {
+          "label": "Stories",
+          "ok": false
+        },
+        {
           "label": "YouTube",
+          "ok": false
+        },
+        {
+          "label": "Stats",
+          "ok": false
+        },
+        {
+          "label": "Gaps",
           "ok": true
         },
         {
           "label": "Dev",
           "ok": true
-        },
-        {
-          "label": "Stats",
-          "ok": true
         }
-      ]
+      ],
+      "note": "X waiting for PC (no grab on the data branch yet); 1 gap open, 2 closing; failed: YouTube, Stats (kept previous)"
     }
   ]
 }

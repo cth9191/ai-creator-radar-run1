@@ -1,25 +1,72 @@
 {
   "sample": true,
-  "generated_at": "2026-10-16T11:07:00Z",
+  "generated_at": "2026-10-16T19:00:55Z",
   "stories": [
     {
       "id": "sample-model-launch",
       "title": "Sample: new frontier model launch",
       "summary": "Placeholder story until the first real refresh.",
+      "keywords": [
+        "new",
+        "frontier",
+        "model"
+      ],
+      "search_query": "new frontier model launch",
       "x": {
         "post_count": 41,
         "engagement": 18400,
         "first_seen": "2026-10-16T01:37:00Z",
+        "velocity": 1936.8,
+        "top_posts": [
+          {
+            "id": "sample-model-launch-0",
+            "url": "https://x.com/example/status/1000",
+            "text": "Sample post. Real posts arrive with the first PC grab.",
+            "created_at": "2026-10-16T01:37:00Z",
+            "likes": 900,
+            "reposts": 120,
+            "replies": 40,
+            "quotes": 12,
+            "author": {
+              "handle": "example",
+              "name": "Sample Author",
+              "followers": 12000,
+              "verified": false
+            }
+          },
+          {
+            "id": "sample-model-launch-1",
+            "url": "https://x.com/example/status/1001",
+            "text": "Sample post. Real posts arrive with the first PC grab.",
+            "created_at": "2026-10-16T02:37:00Z",
+            "likes": 800,
+            "reposts": 110,
+            "replies": 40,
+            "quotes": 12,
+            "author": {
+              "handle": "example",
+              "name": "Sample Author",
+              "followers": 12000,
+              "verified": false
+            }
+          }
+        ],
         "top_url": "https://x.com/example/status/1000"
       },
       "youtube": {
         "video_count": 0,
         "total_views": 0,
-        "first_video_at": null
+        "first_video_at": null,
+        "checked": true,
+        "videos": [],
+        "query": "new frontier model launch"
       },
       "gap": {
-        "score": 92,
-        "flag": "GAP"
+        "score": 94,
+        "flag": "GAP",
+        "heat": 0.902,
+        "coverage": 0.0,
+        "capped": false
       },
       "trail": [
         {
@@ -27,6 +74,12 @@
           "platform": "x",
           "label": "First X post",
           "url": "https://x.com/example/status/1000"
+        },
+        {
+          "at": "2026-10-16T02:37:00Z",
+          "platform": "x",
+          "label": "Big X post · @example · 1.1K engagement",
+          "url": "https://x.com/example/status/1001"
         }
       ]
     },
@@ -34,20 +87,87 @@
       "id": "sample-agent-sdk",
       "title": "Sample: agent SDK update",
       "summary": "Placeholder story until the first real refresh.",
+      "keywords": [
+        "agent",
+        "sdk",
+        "update"
+      ],
+      "search_query": "agent SDK update",
       "x": {
         "post_count": 22,
         "engagement": 9100,
         "first_seen": "2026-10-16T04:07:00Z",
+        "velocity": 1300.0,
+        "top_posts": [
+          {
+            "id": "sample-agent-sdk-0",
+            "url": "https://x.com/example/status/1000",
+            "text": "Sample post. Real posts arrive with the first PC grab.",
+            "created_at": "2026-10-16T04:07:00Z",
+            "likes": 900,
+            "reposts": 120,
+            "replies": 40,
+            "quotes": 12,
+            "author": {
+              "handle": "example",
+              "name": "Sample Author",
+              "followers": 12000,
+              "verified": false
+            }
+          },
+          {
+            "id": "sample-agent-sdk-1",
+            "url": "https://x.com/example/status/1001",
+            "text": "Sample post. Real posts arrive with the first PC grab.",
+            "created_at": "2026-10-16T05:07:00Z",
+            "likes": 800,
+            "reposts": 110,
+            "replies": 40,
+            "quotes": 12,
+            "author": {
+              "handle": "example",
+              "name": "Sample Author",
+              "followers": 12000,
+              "verified": false
+            }
+          }
+        ],
         "top_url": "https://x.com/example/status/1000"
       },
       "youtube": {
         "video_count": 2,
         "total_views": 12000,
-        "first_video_at": "2026-10-16T07:07:00Z"
+        "first_video_at": "2026-10-16T07:07:00Z",
+        "checked": true,
+        "videos": [
+          {
+            "id": "sample-agent-sdk-v1",
+            "url": "https://www.youtube.com/watch?v=sample1",
+            "title": "Sample video",
+            "channel": "Sample Channel",
+            "channel_subs": 8000,
+            "published_at": "2026-10-16T08:07:00Z",
+            "views": 8000
+          },
+          {
+            "id": "sample-agent-sdk-v0",
+            "url": "https://www.youtube.com/watch?v=sample0",
+            "title": "Sample video",
+            "channel": "Sample Channel",
+            "channel_subs": 8000,
+            "published_at": "2026-10-16T07:07:00Z",
+            "views": 4000
+          }
+        ],
+        "query": "agent SDK update",
+        "top_url": "https://www.youtube.com/watch?v=sample1"
       },
       "gap": {
-        "score": 61,
-        "flag": "GAP"
+        "score": 56,
+        "flag": "CLOSING",
+        "heat": 0.842,
+        "coverage": 0.38,
+        "capped": false
       },
       "trail": [
         {
@@ -57,15 +177,21 @@
           "url": "https://x.com/example/status/1000"
         },
         {
+          "at": "2026-10-16T05:07:00Z",
+          "platform": "x",
+          "label": "Big X post · @example · 1.1K engagement",
+          "url": "https://x.com/example/status/1001"
+        },
+        {
           "at": "2026-10-16T07:07:00Z",
           "platform": "youtube",
-          "label": "YouTube video",
+          "label": "Sample Channel · 4K views",
           "url": "https://www.youtube.com/watch?v=sample0"
         },
         {
           "at": "2026-10-16T08:07:00Z",
           "platform": "youtube",
-          "label": "YouTube video",
+          "label": "Sample Channel · 8K views",
           "url": "https://www.youtube.com/watch?v=sample1"
         }
       ]
@@ -74,20 +200,96 @@
       "id": "sample-open-weights",
       "title": "Sample: open-weights coding model",
       "summary": "Placeholder story until the first real refresh.",
+      "keywords": [
+        "open-weights",
+        "coding",
+        "model"
+      ],
+      "search_query": "open-weights coding model",
       "x": {
         "post_count": 30,
         "engagement": 12800,
         "first_seen": "2026-10-16T00:07:00Z",
+        "velocity": 1163.6,
+        "top_posts": [
+          {
+            "id": "sample-open-weights-0",
+            "url": "https://x.com/example/status/1000",
+            "text": "Sample post. Real posts arrive with the first PC grab.",
+            "created_at": "2026-10-16T00:07:00Z",
+            "likes": 900,
+            "reposts": 120,
+            "replies": 40,
+            "quotes": 12,
+            "author": {
+              "handle": "example",
+              "name": "Sample Author",
+              "followers": 12000,
+              "verified": false
+            }
+          },
+          {
+            "id": "sample-open-weights-1",
+            "url": "https://x.com/example/status/1001",
+            "text": "Sample post. Real posts arrive with the first PC grab.",
+            "created_at": "2026-10-16T01:07:00Z",
+            "likes": 800,
+            "reposts": 110,
+            "replies": 40,
+            "quotes": 12,
+            "author": {
+              "handle": "example",
+              "name": "Sample Author",
+              "followers": 12000,
+              "verified": false
+            }
+          }
+        ],
         "top_url": "https://x.com/example/status/1000"
       },
       "youtube": {
         "video_count": 6,
         "total_views": 24000,
-        "first_video_at": "2026-10-16T03:07:00Z"
+        "first_video_at": "2026-10-16T03:07:00Z",
+        "checked": true,
+        "videos": [
+          {
+            "id": "sample-open-weights-v2",
+            "url": "https://www.youtube.com/watch?v=sample2",
+            "title": "Sample video",
+            "channel": "Sample Channel",
+            "channel_subs": 8000,
+            "published_at": "2026-10-16T05:07:00Z",
+            "views": 12000
+          },
+          {
+            "id": "sample-open-weights-v1",
+            "url": "https://www.youtube.com/watch?v=sample1",
+            "title": "Sample video",
+            "channel": "Sample Channel",
+            "channel_subs": 8000,
+            "published_at": "2026-10-16T04:07:00Z",
+            "views": 8000
+          },
+          {
+            "id": "sample-open-weights-v0",
+            "url": "https://www.youtube.com/watch?v=sample0",
+            "title": "Sample video",
+            "channel": "Sample Channel",
+            "channel_subs": 8000,
+            "published_at": "2026-10-16T03:07:00Z",
+            "views": 4000
+          }
+        ],
+        "query": "open-weights coding model",
+        "top_url": "https://www.youtube.com/watch?v=sample2"
       },
       "gap": {
-        "score": 34,
-        "flag": "CLOSING"
+        "score": 32,
+        "flag": "CLOSING",
+        "heat": 0.861,
+        "coverage": 0.65,
+        "capped": false
       },
       "trail": [
         {
@@ -97,21 +299,27 @@
           "url": "https://x.com/example/status/1000"
         },
         {
+          "at": "2026-10-16T01:07:00Z",
+          "platform": "x",
+          "label": "Big X post · @example · 1.1K engagement",
+          "url": "https://x.com/example/status/1001"
+        },
+        {
           "at": "2026-10-16T03:07:00Z",
           "platform": "youtube",
-          "label": "YouTube video",
+          "label": "Sample Channel · 4K views",
           "url": "https://www.youtube.com/watch?v=sample0"
         },
         {
           "at": "2026-10-16T04:07:00Z",
           "platform": "youtube",
-          "label": "YouTube video",
+          "label": "Sample Channel · 8K views",
           "url": "https://www.youtube.com/watch?v=sample1"
         },
         {
           "at": "2026-10-16T05:07:00Z",
           "platform": "youtube",
-          "label": "YouTube video",
+          "label": "Sample Channel · 12K views",
           "url": "https://www.youtube.com/watch?v=sample2"
         }
       ]
@@ -120,20 +328,96 @@
       "id": "sample-voice-mode",
       "title": "Sample: real-time voice API",
       "summary": "Placeholder story until the first real refresh.",
+      "keywords": [
+        "real-time",
+        "voice",
+        "api"
+      ],
+      "search_query": "real-time voice API",
       "x": {
         "post_count": 12,
         "engagement": 4300,
         "first_seen": "2026-10-16T05:37:00Z",
+        "velocity": 781.8,
+        "top_posts": [
+          {
+            "id": "sample-voice-mode-0",
+            "url": "https://x.com/example/status/1000",
+            "text": "Sample post. Real posts arrive with the first PC grab.",
+            "created_at": "2026-10-16T05:37:00Z",
+            "likes": 900,
+            "reposts": 120,
+            "replies": 40,
+            "quotes": 12,
+            "author": {
+              "handle": "example",
+              "name": "Sample Author",
+              "followers": 12000,
+              "verified": false
+            }
+          },
+          {
+            "id": "sample-voice-mode-1",
+            "url": "https://x.com/example/status/1001",
+            "text": "Sample post. Real posts arrive with the first PC grab.",
+            "created_at": "2026-10-16T06:37:00Z",
+            "likes": 800,
+            "reposts": 110,
+            "replies": 40,
+            "quotes": 12,
+            "author": {
+              "handle": "example",
+              "name": "Sample Author",
+              "followers": 12000,
+              "verified": false
+            }
+          }
+        ],
         "top_url": "https://x.com/example/status/1000"
       },
       "youtube": {
         "video_count": 14,
         "total_views": 24000,
-        "first_video_at": "2026-10-16T08:37:00Z"
+        "first_video_at": "2026-10-16T08:37:00Z",
+        "checked": true,
+        "videos": [
+          {
+            "id": "sample-voice-mode-v2",
+            "url": "https://www.youtube.com/watch?v=sample2",
+            "title": "Sample video",
+            "channel": "Sample Channel",
+            "channel_subs": 8000,
+            "published_at": "2026-10-16T10:37:00Z",
+            "views": 12000
+          },
+          {
+            "id": "sample-voice-mode-v1",
+            "url": "https://www.youtube.com/watch?v=sample1",
+            "title": "Sample video",
+            "channel": "Sample Channel",
+            "channel_subs": 8000,
+            "published_at": "2026-10-16T09:37:00Z",
+            "views": 8000
+          },
+          {
+            "id": "sample-voice-mode-v0",
+            "url": "https://www.youtube.com/watch?v=sample0",
+            "title": "Sample video",
+            "channel": "Sample Channel",
+            "channel_subs": 8000,
+            "published_at": "2026-10-16T08:37:00Z",
+            "views": 4000
+          }
+        ],
+        "query": "real-time voice API",
+        "top_url": "https://www.youtube.com/watch?v=sample2"
       },
       "gap": {
-        "score": 9,
-        "flag": "COVERED"
+        "score": 20,
+        "flag": "COVERED",
+        "heat": 0.776,
+        "coverage": 0.766,
+        "capped": false
       },
       "trail": [
         {
@@ -143,21 +427,27 @@
           "url": "https://x.com/example/status/1000"
         },
         {
+          "at": "2026-10-16T06:37:00Z",
+          "platform": "x",
+          "label": "Big X post · @example · 1.1K engagement",
+          "url": "https://x.com/example/status/1001"
+        },
+        {
           "at": "2026-10-16T08:37:00Z",
           "platform": "youtube",
-          "label": "YouTube video",
+          "label": "Sample Channel · 4K views",
           "url": "https://www.youtube.com/watch?v=sample0"
         },
         {
           "at": "2026-10-16T09:37:00Z",
           "platform": "youtube",
-          "label": "YouTube video",
+          "label": "Sample Channel · 8K views",
           "url": "https://www.youtube.com/watch?v=sample1"
         },
         {
           "at": "2026-10-16T10:37:00Z",
           "platform": "youtube",
-          "label": "YouTube video",
+          "label": "Sample Channel · 12K views",
           "url": "https://www.youtube.com/watch?v=sample2"
         }
       ]

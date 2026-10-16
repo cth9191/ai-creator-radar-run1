@@ -1,14 +1,106 @@
 {
-  "sample": true,
-  "generated_at": "2026-10-16T11:07:00Z",
+  "sample": false,
+  "generated_at": "2026-10-16T19:00:56Z",
   "releases": [
     {
-      "tag": "v0.0.0-sample",
-      "name": "Sample release",
-      "published_at": "2026-10-15T15:07:00Z",
-      "url": "https://github.com/anthropics/claude-code/releases",
+      "tag": "v2.1.301",
+      "name": "v2.1.301",
+      "published_at": "2026-10-15T14:34:23Z",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.301",
       "highlights": [
-        "Real releases arrive with the first refresh."
+        "Added CLAUDE_CODE_RETRY_WATCHDOG_MAX_USAGE_LIMIT_WAIT_MS so unattended retry mode (CLAUDE_CODE_RETRY_WATCHDOG) ends a…",
+        "Added OpenTelemetry tracing guidance to the claude-api skill, including setting up trace destinations with the ant CLI",
+        "Added the % motion to vim mode: jump to the matching bracket, alone or with d/c/y",
+        "Added rows to a mod's Input: a text field of several lines in the terminal, where Enter submits and Shift+Enter or a…",
+        "Added classifier_verdict and permission_mode to OpenTelemetry tool_decision events, so auto mode classifier decisions…"
+      ]
+    },
+    {
+      "tag": "v2.1.300",
+      "name": "v2.1.300",
+      "published_at": "2026-10-14T14:27:26Z",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.300",
+      "highlights": [
+        "Added virtualText to a mod's prompt decorations: text drawn in the prompt box that never enters the draft or the…",
+        "Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry api_request event, splitting cache…",
+        "Added $.ui.view({ agentId }) for mods: shows an agent's transcript in the main view when you ask, and $.ui.view({})…",
+        "Added a dir prop on a mod's Text for right-to-left text: on Windows and in VS Code's terminal its rows read in that…",
+        "Added /advisor on Claude Platform on AWS; no advisor runs until you pick one with /advisor, advisorModel or --advisor…"
+      ]
+    },
+    {
+      "tag": "v2.1.299",
+      "name": "v2.1.299",
+      "published_at": "2026-10-14T00:23:19Z",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.299",
+      "highlights": [
+        "Added CLAUDE_CODE_DISABLE_FILE_MENTIONS environment variable: Claude gets the paths of @ file mentions to read with…",
+        "Added idle compaction in the terminal: a 200K+ token conversation left idle for about 54 minutes is compacted before…",
+        "Added CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS to change idle compaction's 200K-token minimum; \"idleCompaction\": false in…",
+        "Added $.prompt.media so a prompt.submit hook of a mod installed by managed settings can read the bytes of an image or…",
+        "Added $.session.identity() for mods installed by managed settings: how the session is signed in, and its organization…"
+      ]
+    },
+    {
+      "tag": "v2.1.296",
+      "name": "v2.1.296",
+      "published_at": "2026-10-09T16:58:10Z",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.296",
+      "highlights": [
+        "Added a code key to the Claude apps gateway's managed.policies[]: the same settings as cli, also applied in Claude…",
+        "Added autoCompactWindow to subagent frontmatter and --agents definitions, so a subagent can auto-compact earlier than…",
+        "Added CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL to run every workflow agent on one model while other subagents keep theirs",
+        "Added CLAUDE_CODE_OVERLOADED_RETRY_MAX_DELAY_MS environment variable to set a longer maximum delay for the backoff…",
+        "Added a note in /plugin on a plugin whose hooks are left out because another enabled plugin has the same name"
+      ]
+    },
+    {
+      "tag": "v2.1.295",
+      "name": "v2.1.295",
+      "published_at": "2026-10-08T18:22:58Z",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.295",
+      "highlights": [
+        "Added onFailure: \"block\" for command and HTTP hooks: a hook that can't start, times out, or exits with an unexpected…",
+        "Added Program Status Protocol (OSC 7501) support: terminals that implement it can show whether Claude Code is working…",
+        "Added quoted text to the /copy picker, so a drafted message copies without its > markers",
+        "Added a warning to claude plugin install, enable, disable and marketplace add when the settings file they write to…",
+        "Added a line on stderr, when it is a terminal, that says what a claude -p run is waiting for when it stays open after…"
+      ]
+    },
+    {
+      "tag": "v2.1.294",
+      "name": "v2.1.294",
+      "published_at": "2026-10-08T03:42:57Z",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.294",
+      "highlights": [
+        "Improved how prompt hooks on Stop and SubagentStop written as instructions (such as \"Carry on if the build is broken\")…",
+        "Fixed prompt and agent hooks written as instructions (such as \"Block commands that...\") allowing what they should block"
+      ]
+    },
+    {
+      "tag": "v2.1.293",
+      "name": "v2.1.293",
+      "published_at": "2026-10-07T17:18:04Z",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+      "highlights": [
+        "Added Claude Haiku 5.5 (claude-haiku-5-5), now the default Haiku model on the Anthropic API — 1M context, $0.10/$0.50…",
+        "Added agentType to the subagentStatusLine payload, so scripts can tell custom subagent types apart",
+        "Added isDeferred to $.tool.register for mods: false lists the tool's schema in the prompt from the start instead of…",
+        "Improved startup for Team and Enterprise organizations: policy and managed settings are fetched earlier, and a stalled…",
+        "Improved Claude in Chrome: fewer page actions are refused when the browser is slow to report its tabs"
+      ]
+    },
+    {
+      "tag": "v2.1.292",
+      "name": "v2.1.292",
+      "published_at": "2026-10-06T17:10:31Z",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.292",
+      "highlights": [
+        "Added --marketplace to claude plugin install: adds the marketplace if needed, under the same policy checks as claude…",
+        "Added an effort parameter to the Agent tool, so Claude runs a sub-agent at the effort level you ask for",
+        "Added CLAUDE_CODE_OVERLOADED_RETRY_BASE_DELAY_MS environment variable to set a longer base delay for the backoff when…",
+        "Added prompt.autocomplete, an event a mod hooks to add its own rows to the prompt box's autocomplete list",
+        "Added prompt caching to $.model.complete for mods: prompt and system take blocks of text, and cache: true on a block…"
       ]
     }
   ],

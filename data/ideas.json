@@ -1,41 +1,41 @@
 {
   "sample": true,
-  "generated_at": "2026-10-16T11:07:00Z",
+  "generated_at": "2026-10-16T19:00:55Z",
   "ideas": [
     {
       "rank": 1,
       "story_id": "sample-model-launch",
       "title": "Sample: new frontier model launch",
-      "angle": "Sample angle: what it means for builders",
-      "why": "Placeholder reasoning.",
-      "gap_score": 92,
+      "angle": "Sample: new frontier model launch explained in 8 minutes",
+      "why": "41 X posts, 18K engagement, 0 YouTube videos",
+      "gap_score": 94,
       "flag": "GAP"
     },
     {
       "rank": 2,
       "story_id": "sample-agent-sdk",
       "title": "Sample: agent SDK update",
-      "angle": "Sample angle: what it means for builders",
-      "why": "Placeholder reasoning.",
-      "gap_score": 61,
-      "flag": "GAP"
+      "angle": "What agent means for Claude Code users",
+      "why": "22 X posts, 9.1K engagement, 2 YouTube videos (12K views)",
+      "gap_score": 56,
+      "flag": "CLOSING"
     },
     {
       "rank": 3,
       "story_id": "sample-open-weights",
       "title": "Sample: open-weights coding model",
-      "angle": "Sample angle: what it means for builders",
-      "why": "Placeholder reasoning.",
-      "gap_score": 34,
+      "angle": "Run open-weights locally: full setup and honest first test",
+      "why": "30 X posts, 13K engagement, 6 YouTube videos (24K views)",
+      "gap_score": 32,
       "flag": "CLOSING"
     },
     {
       "rank": 4,
       "story_id": "sample-voice-mode",
       "title": "Sample: real-time voice API",
-      "angle": "Sample angle: what it means for builders",
-      "why": "Placeholder reasoning.",
-      "gap_score": 9,
+      "angle": "What real-time means for Claude Code users",
+      "why": "12 X posts, 4.3K engagement, 14 YouTube videos (24K views)",
+      "gap_score": 20,
       "flag": "COVERED"
     }
   ]
