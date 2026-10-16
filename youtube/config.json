@@ -1,0 +1,5 @@
+{
+  "_comment": "fill in: set channel_handle to the Chase AI YouTube handle (for example \"@yourhandle\"), or channel_id to its UC... id. channel_id wins when both are set. Public identifiers only, never a key.",
+  "channel_handle": null,
+  "channel_id": null
+}

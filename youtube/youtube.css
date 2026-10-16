@@ -1,0 +1,144 @@
+/* Worker 4 panels: On YouTube + My Stats. Uses shell tokens from shell/shell.css. */
+
+.yt-bar-top {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+.yt-bar-top .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.yt-small { font: 11px/1.4 var(--mono); color: var(--faint); letter-spacing: 0.04em; }
+
+.yt-section {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 4px;
+}
+.yt-section::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+
+/* ---------- On YouTube: one block per story ---------- */
+.yt-stories { display: grid; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.yt-story {
+  display: grid;
+  gap: 8px;
+  padding: 12px;
+  border-radius: var(--radius-sm);
+  background: rgba(250, 249, 245, 0.035);
+  border: 1px solid var(--line);
+  min-width: 0;
+}
+.yt-story.is-gap { border-color: rgba(201, 100, 66, 0.45); background: linear-gradient(180deg, rgba(201, 100, 66, 0.10), rgba(250, 249, 245, 0.02)); }
+.yt-story-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; min-width: 0; }
+.yt-story-title { font-weight: 600; line-height: 1.3; overflow-wrap: anywhere; min-width: 0; }
+.yt-story-head .chip { flex: none; }
+
+.yt-counts { display: flex; align-items: baseline; flex-wrap: wrap; gap: 4px 14px; }
+.yt-count { display: inline-flex; align-items: baseline; gap: 6px; }
+.yt-count b { font: 700 18px/1 var(--mono); letter-spacing: -0.02em; font-variant-numeric: tabular-nums; }
+.yt-count span { font: 500 10px/1 var(--mono); letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+.yt-count.zero b { color: var(--accent); }
+.yt-open { font: 500 12px/1.4 var(--sans); color: #f3cfc2; }
+
+.yt-videos { display: grid; gap: 2px; margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--line); padding-top: 6px; }
+.yt-video { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: baseline; gap: 2px 10px; padding: 4px 0; min-width: 0; }
+.yt-video-title {
+  font-size: 13px;
+  line-height: 1.35;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow-wrap: anywhere;
+}
+.yt-video-title a { text-decoration: none; }
+.yt-video-title a:hover { text-decoration: underline; text-decoration-color: var(--accent); }
+.yt-video-views { font: 600 12px/1.35 var(--mono); font-variant-numeric: tabular-nums; color: var(--text); white-space: nowrap; }
+.yt-video-meta { grid-column: 1 / -1; font: 11px/1.4 var(--mono); color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+/* ---------- Small channels popping off ---------- */
+.yt-rising { display: grid; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.yt-rise {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 2px 12px;
+  align-items: center;
+  padding: 10px 12px;
+  border-radius: var(--radius-sm);
+  background: rgba(250, 249, 245, 0.035);
+  border: 1px solid var(--line);
+  min-width: 0;
+}
+.yt-mult {
+  grid-row: span 3;
+  align-self: stretch;
+  align-content: center;
+  display: grid;
+  place-items: center;
+  min-width: 58px;
+  padding: 8px 8px 6px;
+  border-radius: 10px;
+  background: var(--accent);
+  color: var(--text);
+  box-shadow: 0 6px 18px rgba(201, 100, 66, 0.35);
+}
+.yt-mult b { font: 700 17px/1 var(--mono); letter-spacing: -0.02em; font-variant-numeric: tabular-nums; }
+.yt-mult span { font: 500 8.5px/1.2 var(--mono); letter-spacing: 0.14em; text-transform: uppercase; opacity: 0.85; margin-top: 3px; }
+.yt-rise-chan { font-weight: 600; font-size: 14px; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.yt-rise-chan a { text-decoration: none; }
+.yt-rise-meta { font: 11px/1.4 var(--mono); color: var(--muted); }
+.yt-rise-video { font-size: 12.5px; color: var(--muted); min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.yt-rise-video a { text-decoration: none; color: var(--text); }
+
+/* ---------- My Stats ---------- */
+.yt-metrics { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+.yt-metrics .metric { padding: 10px 11px; }
+.yt-metrics .metric .value { font-size: 22px; }
+.yt-metrics .metric .label { font-size: 9.5px; letter-spacing: 0.12em; }
+
+.yt-latest { display: grid; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.yt-up {
+  display: grid;
+  gap: 6px;
+  padding: 10px 12px;
+  border-radius: var(--radius-sm);
+  background: rgba(250, 249, 245, 0.035);
+  border: 1px solid var(--line);
+  min-width: 0;
+}
+.yt-up-head { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 10px; align-items: baseline; }
+.yt-up-title { font-size: 13.5px; font-weight: 600; line-height: 1.3; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.yt-up-title a { text-decoration: none; }
+.yt-x { font: 700 14px/1 var(--mono); font-variant-numeric: tabular-nums; }
+.yt-x.up { color: var(--ok); }
+.yt-x.down { color: var(--clay); }
+.yt-track {
+  position: relative;
+  height: 8px;
+  border-radius: 999px;
+  background: rgba(250, 249, 245, 0.07);
+  overflow: visible;
+}
+.yt-fill { position: absolute; left: 0; top: 0; bottom: 0; border-radius: 999px; min-width: 4px; }
+.yt-fill.up { background: linear-gradient(90deg, rgba(127, 182, 133, 0.55), var(--ok)); }
+.yt-fill.down { background: linear-gradient(90deg, rgba(217, 119, 87, 0.5), var(--clay)); }
+.yt-median-line {
+  position: absolute;
+  top: -4px;
+  bottom: -4px;
+  width: 2px;
+  margin-left: -1px;
+  border-radius: 2px;
+  background: var(--text);
+  opacity: 0.85;
+}
+.yt-up-meta { display: flex; flex-wrap: wrap; gap: 4px 12px; font: 11px/1.4 var(--mono); color: var(--muted); }
+.yt-legend { display: flex; align-items: center; gap: 8px; font: 10px/1.4 var(--mono); color: var(--faint); letter-spacing: 0.08em; text-transform: uppercase; }
+.yt-legend i { display: inline-block; width: 2px; height: 10px; background: var(--text); opacity: 0.85; border-radius: 2px; }
+
+.yt-empty-title { color: var(--text); font-weight: 600; font-size: 14px; }
+.yt-empty-hint { font-size: 12.5px; max-width: 34ch; }
+.yt-empty-hint code { font: 11.5px var(--mono); color: var(--text); background: rgba(250, 249, 245, 0.07); padding: 1px 5px; border-radius: 5px; }
+.yt-ghost { display: grid; gap: 7px; width: 100%; max-width: 260px; margin: 2px auto 0; opacity: 0.5; }
+.yt-ghost span { height: 6px; border-radius: 999px; background: rgba(250, 249, 245, 0.1); }
