@@ -21,6 +21,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 shell/tools/no_secrets.py
+  worker-tests:
+    name: Worker unit tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Run each worker folder's tests (python3 -m unittest, stdlib only)
+        run: |
+          found=0
+          for d in x radar youtube ops; do
+            if [ -d "$d/tests" ]; then found=1; echo "== $d"; python3 -m unittest discover -s "$d/tests" -t . -v; fi
+          done
+          [ "$found" = 1 ] || echo "no worker tests yet"
   smoke:
     name: Page renders on phone and desktop
     runs-on: ubuntu-latest
