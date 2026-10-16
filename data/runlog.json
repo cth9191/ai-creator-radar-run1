@@ -1,0 +1,28 @@
+{
+  "sample": true,
+  "runs": [
+    {
+      "at": "2026-10-16T11:07:00Z",
+      "status": "partial",
+      "note": "Sample data, waiting for the first refresh.",
+      "chips": [
+        {
+          "label": "X",
+          "ok": false
+        },
+        {
+          "label": "YouTube",
+          "ok": true
+        },
+        {
+          "label": "Dev",
+          "ok": true
+        },
+        {
+          "label": "Stats",
+          "ok": true
+        }
+      ]
+    }
+  ]
+}

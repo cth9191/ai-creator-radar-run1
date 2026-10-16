@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "ideas.schema.json",
+  "title": "ideas",
+  "type": "object",
+  "properties": {
+    "sample": {
+      "type": "boolean"
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "ideas": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "rank": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "story_id": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "angle": {
+            "type": "string"
+          },
+          "why": {
+            "type": "string"
+          },
+          "gap_score": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100
+          },
+          "flag": {
+            "enum": [
+              "GAP",
+              "CLOSING",
+              "COVERED"
+            ]
+          }
+        },
+        "required": [
+          "rank",
+          "story_id",
+          "title",
+          "angle",
+          "gap_score"
+        ]
+      }
+    }
+  },
+  "required": [
+    "generated_at",
+    "ideas"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "sample": true,
+  "generated_at": "2026-10-16T11:07:00Z",
+  "ideas": [
+    {
+      "rank": 1,
+      "story_id": "sample-model-launch",
+      "title": "Sample: new frontier model launch",
+      "angle": "Sample angle: what it means for builders",
+      "why": "Placeholder reasoning.",
+      "gap_score": 92,
+      "flag": "GAP"
+    },
+    {
+      "rank": 2,
+      "story_id": "sample-agent-sdk",
+      "title": "Sample: agent SDK update",
+      "angle": "Sample angle: what it means for builders",
+      "why": "Placeholder reasoning.",
+      "gap_score": 61,
+      "flag": "GAP"
+    },
+    {
+      "rank": 3,
+      "story_id": "sample-open-weights",
+      "title": "Sample: open-weights coding model",
+      "angle": "Sample angle: what it means for builders",
+      "why": "Placeholder reasoning.",
+      "gap_score": 34,
+      "flag": "CLOSING"
+    },
+    {
+      "rank": 4,
+      "story_id": "sample-voice-mode",
+      "title": "Sample: real-time voice API",
+      "angle": "Sample angle: what it means for builders",
+      "why": "Placeholder reasoning.",
+      "gap_score": 9,
+      "flag": "COVERED"
+    }
+  ]
+}

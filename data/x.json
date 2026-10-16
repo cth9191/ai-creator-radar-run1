@@ -1,0 +1,154 @@
+{
+  "sample": true,
+  "grabbed_at": "2026-10-16T04:31:00Z",
+  "source": "sample",
+  "queries": [
+    "sample"
+  ],
+  "posts": [
+    {
+      "id": "sample-model-launch-0",
+      "url": "https://x.com/example/status/1000",
+      "author": {
+        "handle": "example",
+        "name": "Sample Author",
+        "followers": 12000,
+        "verified": false
+      },
+      "text": "Sample post. Real posts arrive with the first PC grab.",
+      "created_at": "2026-10-16T01:37:00Z",
+      "likes": 900,
+      "reposts": 120,
+      "replies": 40,
+      "quotes": 12,
+      "views": 50000,
+      "query": "sample"
+    },
+    {
+      "id": "sample-model-launch-1",
+      "url": "https://x.com/example/status/1001",
+      "author": {
+        "handle": "example",
+        "name": "Sample Author",
+        "followers": 12000,
+        "verified": false
+      },
+      "text": "Sample post. Real posts arrive with the first PC grab.",
+      "created_at": "2026-10-16T02:37:00Z",
+      "likes": 800,
+      "reposts": 110,
+      "replies": 40,
+      "quotes": 12,
+      "views": 50000,
+      "query": "sample"
+    },
+    {
+      "id": "sample-agent-sdk-0",
+      "url": "https://x.com/example/status/1000",
+      "author": {
+        "handle": "example",
+        "name": "Sample Author",
+        "followers": 12000,
+        "verified": false
+      },
+      "text": "Sample post. Real posts arrive with the first PC grab.",
+      "created_at": "2026-10-16T04:07:00Z",
+      "likes": 900,
+      "reposts": 120,
+      "replies": 40,
+      "quotes": 12,
+      "views": 50000,
+      "query": "sample"
+    },
+    {
+      "id": "sample-agent-sdk-1",
+      "url": "https://x.com/example/status/1001",
+      "author": {
+        "handle": "example",
+        "name": "Sample Author",
+        "followers": 12000,
+        "verified": false
+      },
+      "text": "Sample post. Real posts arrive with the first PC grab.",
+      "created_at": "2026-10-16T05:07:00Z",
+      "likes": 800,
+      "reposts": 110,
+      "replies": 40,
+      "quotes": 12,
+      "views": 50000,
+      "query": "sample"
+    },
+    {
+      "id": "sample-open-weights-0",
+      "url": "https://x.com/example/status/1000",
+      "author": {
+        "handle": "example",
+        "name": "Sample Author",
+        "followers": 12000,
+        "verified": false
+      },
+      "text": "Sample post. Real posts arrive with the first PC grab.",
+      "created_at": "2026-10-16T00:07:00Z",
+      "likes": 900,
+      "reposts": 120,
+      "replies": 40,
+      "quotes": 12,
+      "views": 50000,
+      "query": "sample"
+    },
+    {
+      "id": "sample-open-weights-1",
+      "url": "https://x.com/example/status/1001",
+      "author": {
+        "handle": "example",
+        "name": "Sample Author",
+        "followers": 12000,
+        "verified": false
+      },
+      "text": "Sample post. Real posts arrive with the first PC grab.",
+      "created_at": "2026-10-16T01:07:00Z",
+      "likes": 800,
+      "reposts": 110,
+      "replies": 40,
+      "quotes": 12,
+      "views": 50000,
+      "query": "sample"
+    },
+    {
+      "id": "sample-voice-mode-0",
+      "url": "https://x.com/example/status/1000",
+      "author": {
+        "handle": "example",
+        "name": "Sample Author",
+        "followers": 12000,
+        "verified": false
+      },
+      "text": "Sample post. Real posts arrive with the first PC grab.",
+      "created_at": "2026-10-16T05:37:00Z",
+      "likes": 900,
+      "reposts": 120,
+      "replies": 40,
+      "quotes": 12,
+      "views": 50000,
+      "query": "sample"
+    },
+    {
+      "id": "sample-voice-mode-1",
+      "url": "https://x.com/example/status/1001",
+      "author": {
+        "handle": "example",
+        "name": "Sample Author",
+        "followers": 12000,
+        "verified": false
+      },
+      "text": "Sample post. Real posts arrive with the first PC grab.",
+      "created_at": "2026-10-16T06:37:00Z",
+      "likes": 800,
+      "reposts": 110,
+      "replies": 40,
+      "quotes": 12,
+      "views": 50000,
+      "query": "sample"
+    }
+  ]
+}

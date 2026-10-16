@@ -1,0 +1,16 @@
+{
+  "sample": true,
+  "generated_at": "2026-10-16T11:07:00Z",
+  "releases": [
+    {
+      "tag": "v0.0.0-sample",
+      "name": "Sample release",
+      "published_at": "2026-10-15T15:07:00Z",
+      "url": "https://github.com/anthropics/claude-code/releases",
+      "highlights": [
+        "Real releases arrive with the first refresh."
+      ]
+    }
+  ],
+  "news": []
+}

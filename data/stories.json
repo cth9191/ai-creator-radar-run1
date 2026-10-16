@@ -1,0 +1,235 @@
+{
+  "sample": true,
+  "generated_at": "2026-10-16T11:07:00Z",
+  "x_grabbed_at": "2026-10-16T04:31:00Z",
+  "stories": [
+    {
+      "id": "sample-model-launch",
+      "title": "Sample: new frontier model launch",
+      "summary": "Placeholder story until the first real refresh.",
+      "keywords": [
+        "new",
+        "frontier",
+        "model"
+      ],
+      "search_query": "new frontier model launch",
+      "first_seen": "2026-10-16T01:37:00Z",
+      "post_ids": [
+        "sample-model-launch-0",
+        "sample-model-launch-1"
+      ],
+      "post_count": 41,
+      "engagement": 18400,
+      "velocity": 1936.8,
+      "top_posts": [
+        {
+          "id": "sample-model-launch-0",
+          "url": "https://x.com/example/status/1000",
+          "author": {
+            "handle": "example",
+            "name": "Sample Author",
+            "followers": 12000,
+            "verified": false
+          },
+          "text": "Sample post. Real posts arrive with the first PC grab.",
+          "created_at": "2026-10-16T01:37:00Z",
+          "likes": 900,
+          "reposts": 120,
+          "replies": 40,
+          "quotes": 12,
+          "views": 50000,
+          "query": "sample"
+        },
+        {
+          "id": "sample-model-launch-1",
+          "url": "https://x.com/example/status/1001",
+          "author": {
+            "handle": "example",
+            "name": "Sample Author",
+            "followers": 12000,
+            "verified": false
+          },
+          "text": "Sample post. Real posts arrive with the first PC grab.",
+          "created_at": "2026-10-16T02:37:00Z",
+          "likes": 800,
+          "reposts": 110,
+          "replies": 40,
+          "quotes": 12,
+          "views": 50000,
+          "query": "sample"
+        }
+      ]
+    },
+    {
+      "id": "sample-agent-sdk",
+      "title": "Sample: agent SDK update",
+      "summary": "Placeholder story until the first real refresh.",
+      "keywords": [
+        "agent",
+        "sdk",
+        "update"
+      ],
+      "search_query": "agent SDK update",
+      "first_seen": "2026-10-16T04:07:00Z",
+      "post_ids": [
+        "sample-agent-sdk-0",
+        "sample-agent-sdk-1"
+      ],
+      "post_count": 22,
+      "engagement": 9100,
+      "velocity": 1300.0,
+      "top_posts": [
+        {
+          "id": "sample-agent-sdk-0",
+          "url": "https://x.com/example/status/1000",
+          "author": {
+            "handle": "example",
+            "name": "Sample Author",
+            "followers": 12000,
+            "verified": false
+          },
+          "text": "Sample post. Real posts arrive with the first PC grab.",
+          "created_at": "2026-10-16T04:07:00Z",
+          "likes": 900,
+          "reposts": 120,
+          "replies": 40,
+          "quotes": 12,
+          "views": 50000,
+          "query": "sample"
+        },
+        {
+          "id": "sample-agent-sdk-1",
+          "url": "https://x.com/example/status/1001",
+          "author": {
+            "handle": "example",
+            "name": "Sample Author",
+            "followers": 12000,
+            "verified": false
+          },
+          "text": "Sample post. Real posts arrive with the first PC grab.",
+          "created_at": "2026-10-16T05:07:00Z",
+          "likes": 800,
+          "reposts": 110,
+          "replies": 40,
+          "quotes": 12,
+          "views": 50000,
+          "query": "sample"
+        }
+      ]
+    },
+    {
+      "id": "sample-open-weights",
+      "title": "Sample: open-weights coding model",
+      "summary": "Placeholder story until the first real refresh.",
+      "keywords": [
+        "open-weights",
+        "coding",
+        "model"
+      ],
+      "search_query": "open-weights coding model",
+      "first_seen": "2026-10-16T00:07:00Z",
+      "post_ids": [
+        "sample-open-weights-0",
+        "sample-open-weights-1"
+      ],
+      "post_count": 30,
+      "engagement": 12800,
+      "velocity": 1163.6,
+      "top_posts": [
+        {
+          "id": "sample-open-weights-0",
+          "url": "https://x.com/example/status/1000",
+          "author": {
+            "handle": "example",
+            "name": "Sample Author",
+            "followers": 12000,
+            "verified": false
+          },
+          "text": "Sample post. Real posts arrive with the first PC grab.",
+          "created_at": "2026-10-16T00:07:00Z",
+          "likes": 900,
+          "reposts": 120,
+          "replies": 40,
+          "quotes": 12,
+          "views": 50000,
+          "query": "sample"
+        },
+        {
+          "id": "sample-open-weights-1",
+          "url": "https://x.com/example/status/1001",
+          "author": {
+            "handle": "example",
+            "name": "Sample Author",
+            "followers": 12000,
+            "verified": false
+          },
+          "text": "Sample post. Real posts arrive with the first PC grab.",
+          "created_at": "2026-10-16T01:07:00Z",
+          "likes": 800,
+          "reposts": 110,
+          "replies": 40,
+          "quotes": 12,
+          "views": 50000,
+          "query": "sample"
+        }
+      ]
+    },
+    {
+      "id": "sample-voice-mode",
+      "title": "Sample: real-time voice API",
+      "summary": "Placeholder story until the first real refresh.",
+      "keywords": [
+        "real-time",
+        "voice",
+        "api"
+      ],
+      "search_query": "real-time voice API",
+      "first_seen": "2026-10-16T05:37:00Z",
+      "post_ids": [
+        "sample-voice-mode-0",
+        "sample-voice-mode-1"
+      ],
+      "post_count": 12,
+      "engagement": 4300,
+      "velocity": 781.8,
+      "top_posts": [
+        {
+          "id": "sample-voice-mode-0",
+          "url": "https://x.com/example/status/1000",
+          "author": {
+            "handle": "example",
+            "name": "Sample Author",
+            "followers": 12000,
+            "verified": false
+          },
+          "text": "Sample post. Real posts arrive with the first PC grab.",
+          "created_at": "2026-10-16T05:37:00Z",
+          "likes": 900,
+          "reposts": 120,
+          "replies": 40,
+          "quotes": 12,
+          "views": 50000,
+          "query": "sample"
+        },
+        {
+          "id": "sample-voice-mode-1",
+          "url": "https://x.com/example/status/1001",
+          "author": {
+            "handle": "example",
+            "name": "Sample Author",
+            "followers": 12000,
+            "verified": false
+          },
+          "text": "Sample post. Real posts arrive with the first PC grab.",
+          "created_at": "2026-10-16T06:37:00Z",
+          "likes": 800,
+          "reposts": 110,
+          "replies": 40,
+          "quotes": 12,
+          "views": 50000,
+          "query": "sample"
+        }
+      ]
+    }
+  ]
+}
