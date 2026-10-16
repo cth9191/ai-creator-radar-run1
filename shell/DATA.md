@@ -61,3 +61,25 @@ export default function render(body, ctx) {
 
 The panel registry lives in `shell/panels.js`. A panel whose module is missing
 or throws shows a placeholder instead of breaking the page.
+
+## Pipeline scripts
+
+The refresh (W5, `ops/refresh.py`) runs each step as its own script from the repo
+root. Exit code 0 means the step wrote its file; anything else means it failed and
+the previous file stays. Scripts use the Python standard library only.
+
+| Step | Command | Reads | Writes |
+|---|---|---|---|
+| Stories | `python3 radar/stories.py` | `data/x.json` | `data/stories.json` |
+| YouTube coverage | `python3 youtube/coverage.py` | `data/stories.json` | `data/youtube.json` |
+| My Stats | `python3 youtube/stats.py` | – | `data/stats.json` |
+| Gaps + ideas | `python3 radar/gaps.py` | `data/stories.json`, `data/youtube.json` | `data/radar.json`, `data/ideas.json` |
+| Dev Corner | `python3 ops/devcorner.py` | GitHub releases | `data/devcorner.json` |
+
+The PC grab (W2) commits `x/latest.json` (same shape as `data/x.json`) to the `data`
+branch. The refresh reads it with `git fetch origin data` and copies it into `data/x.json`.
+
+## Tests
+
+Put unit tests in `<your folder>/tests/test_*.py` (stdlib `unittest`). CI runs them
+for every PR, alongside schema validation, the secret scan and the page smoke test.
