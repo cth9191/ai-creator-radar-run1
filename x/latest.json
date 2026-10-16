@@ -1,0 +1,1652 @@
+{
+  "sample": false,
+  "grabbed_at": "2026-10-16T19:07:00Z",
+  "source": "pc",
+  "queries": [
+    "claude",
+    "openai",
+    "labs",
+    "models",
+    "agents"
+  ],
+  "posts": [
+    {
+      "id": "2111017464142196958",
+      "url": "https://x.com/dhh/status/2111017464142196958",
+      "author": {
+        "handle": "dhh",
+        "name": "DHH",
+        "followers": 926542,
+        "verified": true
+      },
+      "text": "Starship, Starlink, Grok, and Roadster. These should all have been Sputnik moments for Europe. Triggered immediate deregulation, mobilization of capital, and ambition to catch up. And that's just the work of Elon's companies alone. But what do we get? A hollowed out EU Inc 💀",
+      "created_at": "2026-10-16T08:52:38Z",
+      "likes": 6710,
+      "reposts": 384,
+      "replies": 285,
+      "quotes": 43,
+      "views": 127829,
+      "query": "labs"
+    },
+    {
+      "id": "2111026512057254236",
+      "url": "https://x.com/universalmodhq/status/2111026512057254236",
+      "author": {
+        "handle": "universalmodhq",
+        "name": "universal-modder",
+        "followers": 1393,
+        "verified": true
+      },
+      "text": "NPCs can talk back now!\n\nIntroducing NPCTalk: make the NPCs of any game talk in realtime. I made every NPC in GTA V answer to me in character, in their own cloned voice, in under 1s, and they act on what you say.\n\nWe packaged all the skills Claude learned into a single repo, buil",
+      "created_at": "2026-10-16T09:28:36Z",
+      "likes": 4819,
+      "reposts": 298,
+      "replies": 102,
+      "quotes": 57,
+      "views": 332034,
+      "query": "models"
+    },
+    {
+      "id": "2111102111068938698",
+      "url": "https://x.com/6monthsAgoInAI/status/2111102111068938698",
+      "author": {
+        "handle": "6monthsAgoInAI",
+        "name": "6 Months Ago In AI",
+        "followers": 5621,
+        "verified": false
+      },
+      "text": "Anthropic releases Claude Opus 4.7\n\nhttps://t.co/Rwyc3wYAct",
+      "created_at": "2026-10-16T14:29:00Z",
+      "likes": 2843,
+      "reposts": 52,
+      "replies": 83,
+      "quotes": 44,
+      "views": 192414,
+      "query": "claude"
+    },
+    {
+      "id": "2111043321401618864",
+      "url": "https://x.com/robj3d3/status/2111043321401618864",
+      "author": {
+        "handle": "robj3d3",
+        "name": "Rob Hallam",
+        "followers": 66505,
+        "verified": true
+      },
+      "text": "Opus 5.5 came out almost a month ago and it still beats everything.\n\nThat is how far ahead Anthropic is.",
+      "created_at": "2026-10-16T10:35:23Z",
+      "likes": 2553,
+      "reposts": 46,
+      "replies": 79,
+      "quotes": 12,
+      "views": 44020,
+      "query": "claude"
+    },
+    {
+      "id": "2110997125123449287",
+      "url": "https://x.com/karankendre/status/2110997125123449287",
+      "author": {
+        "handle": "karankendre",
+        "name": "Karan",
+        "followers": 16271,
+        "verified": true
+      },
+      "text": "People who aren’t on X probably don’t even know that \n\nDeepSeek V4.1 Flash and GLM 5.3 Flash are available for free",
+      "created_at": "2026-10-16T07:31:49Z",
+      "likes": 2424,
+      "reposts": 92,
+      "replies": 30,
+      "quotes": 1,
+      "views": 33405,
+      "query": "models"
+    },
+    {
+      "id": "2111127737016398199",
+      "url": "https://x.com/kangminlee/status/2111127737016398199",
+      "author": {
+        "handle": "kangminlee",
+        "name": "Kangmin Lee | 이강민",
+        "followers": 264454,
+        "verified": true
+      },
+      "text": "POV: you're about to leak all of your company's secrets https://t.co/p6NB9Q56gI",
+      "created_at": "2026-10-16T16:10:50Z",
+      "likes": 1922,
+      "reposts": 55,
+      "replies": 45,
+      "quotes": 2,
+      "views": 12914,
+      "query": "openai"
+    },
+    {
+      "id": "2111074067461611540",
+      "url": "https://x.com/monokern/status/2111074067461611540",
+      "author": {
+        "handle": "monokern",
+        "name": "monokern",
+        "followers": 5862,
+        "verified": true
+      },
+      "text": "SpaceXAI's Grok Bot team put their own bot templates in the marketplace, and this is a f*c*ing goldmine\n\nyou can import a setup built for a specific job, connect your tools and adapt it to your own work\n\nhere are 10 worth looking at:\n\nbot 1 → dr eggbot designs and creates other G",
+      "created_at": "2026-10-16T12:37:34Z",
+      "likes": 1807,
+      "reposts": 240,
+      "replies": 139,
+      "quotes": 25,
+      "views": 345265,
+      "query": "labs"
+    },
+    {
+      "id": "2111153608368476564",
+      "url": "https://x.com/WatcherGuru/status/2111153608368476564",
+      "author": {
+        "handle": "WatcherGuru",
+        "name": "Watcher.Guru",
+        "followers": 4909511,
+        "verified": true
+      },
+      "text": "JUST IN: Anthropic says its Claude Mythos AI model designed highly efficient quantum circuits that could bring quantum computing \"within reach sooner.\"",
+      "created_at": "2026-10-16T17:53:38Z",
+      "likes": 1803,
+      "reposts": 157,
+      "replies": 138,
+      "quotes": 46,
+      "views": 202271,
+      "query": "claude"
+    },
+    {
+      "id": "2111108864363868504",
+      "url": "https://x.com/MaekaAmaya/status/2111108864363868504",
+      "author": {
+        "handle": "MaekaAmaya",
+        "name": "Maeka Amaya 🍣🌿",
+        "followers": 6303,
+        "verified": true
+      },
+      "text": "‼️ ATTENTION NVIDIA USERS ‼️ \nCheck your NVIDIA settings because they added a function that allows AI agents access to your PC. It's on by default. 😡 https://t.co/sjJtixCWND",
+      "created_at": "2026-10-16T14:55:50Z",
+      "likes": 1802,
+      "reposts": 280,
+      "replies": 61,
+      "quotes": 18,
+      "views": 97900,
+      "query": "agents"
+    },
+    {
+      "id": "2111130577789493706",
+      "url": "https://x.com/sama/status/2111130577789493706",
+      "author": {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "followers": 6384763,
+        "verified": true
+      },
+      "text": "Very happy to see this from Nick!",
+      "created_at": "2026-10-16T16:22:07Z",
+      "likes": 1752,
+      "reposts": 77,
+      "replies": 140,
+      "quotes": 14,
+      "views": 166543,
+      "query": "openai"
+    },
+    {
+      "id": "2111134912023576700",
+      "url": "https://x.com/WatcherGuru/status/2111134912023576700",
+      "author": {
+        "handle": "WatcherGuru",
+        "name": "Watcher.Guru",
+        "followers": 4909512,
+        "verified": true
+      },
+      "text": "JUST IN: OpenAI CEO Sam Altman praises Tesla's $TSLA new Roadster, says it \"looks amazing\" and tells Elon Musk \"good job.\" https://t.co/zvI3DfOuIX",
+      "created_at": "2026-10-16T16:39:20Z",
+      "likes": 1731,
+      "reposts": 101,
+      "replies": 171,
+      "quotes": 20,
+      "views": 165543,
+      "query": "openai"
+    },
+    {
+      "id": "2111074411587485716",
+      "url": "https://x.com/bridgemindai/status/2111074411587485716",
+      "author": {
+        "handle": "bridgemindai",
+        "name": "BridgeMind",
+        "followers": 66760,
+        "verified": true
+      },
+      "text": "Here is my updated model tier list: https://t.co/rJcjCW9VVJ",
+      "created_at": "2026-10-16T12:38:56Z",
+      "likes": 1730,
+      "reposts": 68,
+      "replies": 79,
+      "quotes": 14,
+      "views": 45690,
+      "query": "labs"
+    },
+    {
+      "id": "2111152183240511640",
+      "url": "https://x.com/AnthropicAI/status/2111152183240511640",
+      "author": {
+        "handle": "AnthropicAI",
+        "name": "Anthropic",
+        "followers": 1809577,
+        "verified": true
+      },
+      "text": "New from our STEM Fellows Program: Designing more efficient quantum circuits with Claude.\n\nGiven plain-language instructions, Claude Mythos 5 designed quantum circuits that improve on the best published ones, sometimes by an order of magnitude or more.\n\nMore efficient circuits re",
+      "created_at": "2026-10-16T17:47:58Z",
+      "likes": 1729,
+      "reposts": 148,
+      "replies": 173,
+      "quotes": 103,
+      "views": 100314,
+      "query": "claude"
+    },
+    {
+      "id": "2111094387161919596",
+      "url": "https://x.com/Polymarket/status/2111094387161919596",
+      "author": {
+        "handle": "Polymarket",
+        "name": "Polymarket",
+        "followers": 2023315,
+        "verified": true
+      },
+      "text": "BREAKING: Rogue AI agents broke into Indian companies' live systems &amp; accessed confidential records without detection, India's cybersecurity agency reveals.",
+      "created_at": "2026-10-16T13:58:18Z",
+      "likes": 1403,
+      "reposts": 183,
+      "replies": 87,
+      "quotes": 27,
+      "views": 87292,
+      "query": "agents"
+    },
+    {
+      "id": "2111035372180508695",
+      "url": "https://x.com/UltraLinx/status/2111035372180508695",
+      "author": {
+        "handle": "UltraLinx",
+        "name": "Oliur",
+        "followers": 125332,
+        "verified": true
+      },
+      "text": "Thanks Claude Code. https://t.co/yglP16CrCw",
+      "created_at": "2026-10-16T10:03:48Z",
+      "likes": 1363,
+      "reposts": 11,
+      "replies": 45,
+      "quotes": 4,
+      "views": 46748,
+      "query": "claude"
+    },
+    {
+      "id": "2111068549469098492",
+      "url": "https://x.com/copyconstruct/status/2111068549469098492",
+      "author": {
+        "handle": "copyconstruct",
+        "name": "Cindy Sridharan",
+        "followers": 50659,
+        "verified": false
+      },
+      "text": "To create my claude.md, I had it read:\n\n- my favorite programming books + blogs\n- the best oss projects\n- the code of the engineers I respect the most\n\nClaude (when given proper instructions, constraints, and context) now writes better code than me, almost always.",
+      "created_at": "2026-10-16T12:15:38Z",
+      "likes": 1341,
+      "reposts": 58,
+      "replies": 46,
+      "quotes": 11,
+      "views": 97851,
+      "query": "claude"
+    },
+    {
+      "id": "2111004261488480425",
+      "url": "https://x.com/free_ai_guides/status/2111004261488480425",
+      "author": {
+        "handle": "free_ai_guides",
+        "name": "AI Guides",
+        "followers": 86232,
+        "verified": true
+      },
+      "text": "BREAKING NEWS 🚨: Grok Bot can now be your $50,000 a year travel agent, and if it gets a booking wrong, Elon says SpaceX will pay you back.\n\nTell your Bot where you want to go and use these 7 prompts:",
+      "created_at": "2026-10-16T08:00:11Z",
+      "likes": 1266,
+      "reposts": 91,
+      "replies": 23,
+      "quotes": 2,
+      "views": 74476,
+      "query": "labs"
+    },
+    {
+      "id": "2111056939841163336",
+      "url": "https://x.com/MistralAI/status/2111056939841163336",
+      "author": {
+        "handle": "MistralAI",
+        "name": "Mistral AI",
+        "followers": 223528,
+        "verified": true
+      },
+      "text": "Turns out le Chonk is into rocket science.\n\nMistral Large 4 scoring well in engineering and astronomy on Ulam’s private benchmark, STEMBench: https://t.co/OW3reppzWN https://t.co/3BbnbEuYvP",
+      "created_at": "2026-10-16T11:29:30Z",
+      "likes": 1159,
+      "reposts": 87,
+      "replies": 87,
+      "quotes": 16,
+      "views": 42160,
+      "query": "labs"
+    },
+    {
+      "id": "2111049549317816741",
+      "url": "https://x.com/Dexerto/status/2111049549317816741",
+      "author": {
+        "handle": "Dexerto",
+        "name": "Dexerto",
+        "followers": 1449635,
+        "verified": false
+      },
+      "text": "An OpenAI employee has been arrested after allegedly hiding a recording device inside toilet paper\n\nThe device was found plugged into a TV in a room used for confidential meetings https://t.co/xhIVj9qzHp",
+      "created_at": "2026-10-16T11:00:08Z",
+      "likes": 1120,
+      "reposts": 31,
+      "replies": 40,
+      "quotes": 7,
+      "views": 52470,
+      "query": "openai"
+    },
+    {
+      "id": "2111135155847123207",
+      "url": "https://x.com/benjamincowen/status/2111135155847123207",
+      "author": {
+        "handle": "benjamincowen",
+        "name": "Benjamin Cowen",
+        "followers": 1266137,
+        "verified": true
+      },
+      "text": "Translation: Market conditions are not great right now, so let's delay our IPO to extract as much out of retail as possible later on. But let's blame it on safety concerns.",
+      "created_at": "2026-10-16T16:40:18Z",
+      "likes": 1053,
+      "reposts": 45,
+      "replies": 56,
+      "quotes": 4,
+      "views": 61324,
+      "query": "claude"
+    },
+    {
+      "id": "2111093706220826802",
+      "url": "https://x.com/StefanoGPT/status/2111093706220826802",
+      "author": {
+        "handle": "StefanoGPT",
+        "name": "Stefano",
+        "followers": 2388,
+        "verified": true
+      },
+      "text": "See, @OpenAI? It’s fine to build hype.\n\nBut then you gotta deliver.\n\nSpot the difference. https://t.co/TVoQu5iqLW",
+      "created_at": "2026-10-16T13:55:36Z",
+      "likes": 1003,
+      "reposts": 17,
+      "replies": 54,
+      "quotes": 7,
+      "views": 45059,
+      "query": "openai"
+    },
+    {
+      "id": "2111127991401247033",
+      "url": "https://x.com/GoogleDeepMind/status/2111127991401247033",
+      "author": {
+        "handle": "GoogleDeepMind",
+        "name": "Google DeepMind",
+        "followers": 1572377,
+        "verified": false
+      },
+      "text": "Four Gemini 4 Argon agents beat Minecraft from scratch in 27 hours.\n\nOperating in a sandbox using only code and text, they wrote 2,783 programs, divided up jobs over chat, shared notes, and debugged errors together - all with no human help ↓\nhttps://t.co/uyIhDOQXGT",
+      "created_at": "2026-10-16T16:11:50Z",
+      "likes": 959,
+      "reposts": 76,
+      "replies": 155,
+      "quotes": 49,
+      "views": 64091,
+      "query": "labs"
+    },
+    {
+      "id": "2111043474455695785",
+      "url": "https://x.com/unusual_whales/status/2111043474455695785",
+      "author": {
+        "handle": "unusual_whales",
+        "name": "unusual_whales",
+        "followers": 5427831,
+        "verified": true
+      },
+      "text": "The FBI has said that the Saudi OpenAI engineer used his wife’s ChatGPT account to figure out how to plant a secret recording device at the office, per FORTUNE",
+      "created_at": "2026-10-16T10:36:00Z",
+      "likes": 943,
+      "reposts": 48,
+      "replies": 77,
+      "quotes": 9,
+      "views": 186051,
+      "query": "openai"
+    },
+    {
+      "id": "2111024434958275063",
+      "url": "https://x.com/OpenDesignHQ/status/2111024434958275063",
+      "author": {
+        "handle": "OpenDesignHQ",
+        "name": "OpenDesign",
+        "followers": 24129,
+        "verified": true
+      },
+      "text": "This is what DeepSeek v4.1 Flash can do with OpenDesign Motion.\n\nFrom the first prompt to the finished video, no Opus 5.5 used. Just an idea, your chosen model, and OpenDesign.\n\nDemo 1 ↘️ https://t.co/99ZDllKKdA",
+      "created_at": "2026-10-16T09:20:20Z",
+      "likes": 918,
+      "reposts": 61,
+      "replies": 24,
+      "quotes": 12,
+      "views": 43521,
+      "query": "models"
+    },
+    {
+      "id": "2111119820028809302",
+      "url": "https://x.com/MTSlive/status/2111119820028809302",
+      "author": {
+        "handle": "MTSlive",
+        "name": "MTS",
+        "followers": 561159,
+        "verified": false
+      },
+      "text": "SITUATION DETECTED: Four Gemini 4 Argon agents have beaten Minecraft end-to-end in 27 hours and 14 minutes with no help from humans. The agents coordinated through in-game chat, supported their teammates, and recovered each other’s items after deaths.",
+      "created_at": "2026-10-16T15:39:22Z",
+      "likes": 888,
+      "reposts": 35,
+      "replies": 16,
+      "quotes": 7,
+      "views": 25951,
+      "query": "labs"
+    },
+    {
+      "id": "2111122250820989217",
+      "url": "https://x.com/petergyang/status/2111122250820989217",
+      "author": {
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "followers": 288177,
+        "verified": true
+      },
+      "text": "It’s no secret that Grok @Bot is my favorite 24/7 AI agent right now.\n\nI’m partnering with @SpaceXSI to give out codes for one month FREE of the Super tier ($100) of their new X Subscription.\n\nIt combines X, Grok, Grok Bot, and Cursor into one subscription and is imo a no brainer",
+      "created_at": "2026-10-16T15:49:02Z",
+      "likes": 887,
+      "reposts": 93,
+      "replies": 363,
+      "quotes": 10,
+      "views": 172179,
+      "query": "labs"
+    },
+    {
+      "id": "2111049077701877884",
+      "url": "https://x.com/DavidDeutschOxf/status/2111049077701877884",
+      "author": {
+        "handle": "DavidDeutschOxf",
+        "name": "David Deutsch",
+        "followers": 176438,
+        "verified": true
+      },
+      "text": "I checked this and my version, on the highest available depth, gave the same answer. https://t.co/8n11AnQM0f I am cancelling my subscription. @sama @OpenAI @gdb",
+      "created_at": "2026-10-16T10:58:16Z",
+      "likes": 864,
+      "reposts": 55,
+      "replies": 59,
+      "quotes": 15,
+      "views": 67863,
+      "query": "openai"
+    },
+    {
+      "id": "2111161033121468497",
+      "url": "https://x.com/theo/status/2111161033121468497",
+      "author": {
+        "handle": "theo",
+        "name": "Theo - t3.gg",
+        "followers": 407311,
+        "verified": true
+      },
+      "text": "Most common format of DMs I get:\n\n“Hey Theo, I’ve been a fan for a long time\n\n[3-8 paragraph life story]\n\nSo, which $20 plan is better, Claude or Codex?”",
+      "created_at": "2026-10-16T18:23:08Z",
+      "likes": 816,
+      "reposts": 6,
+      "replies": 155,
+      "quotes": 5,
+      "views": 22408,
+      "query": "claude"
+    },
+    {
+      "id": "2111018147021025344",
+      "url": "https://x.com/Codex_robinhood/status/2111018147021025344",
+      "author": {
+        "handle": "Codex_robinhood",
+        "name": "Codex",
+        "followers": 2360,
+        "verified": true
+      },
+      "text": "RARE CODEX FRIENDS 👾\n\n🔗 https://t.co/Wqqbojfz8a\n\n🎁 30% of the 70% airdrop allocation will be split equally across every minted NFT.\n\nMint opens in 2 HOURS ⏳\n12:00 PM GMT · OpenSea\n\n🔔 Don't miss it https://t.co/p3djgnTYB2",
+      "created_at": "2026-10-16T08:55:21Z",
+      "likes": 809,
+      "reposts": 672,
+      "replies": 552,
+      "quotes": 32,
+      "views": 12255,
+      "query": "openai"
+    },
+    {
+      "id": "2111151435778039811",
+      "url": "https://x.com/HeyGenDev/status/2111151435778039811",
+      "author": {
+        "handle": "HeyGenDev",
+        "name": "HeyGen Developers",
+        "followers": 27655,
+        "verified": true
+      },
+      "text": "HeyGen Video 1 is the #1 video model on the @OpenRouter leaderboard, and it's now available in HeyGen MCP.\n\nTell your agent what you want to see, and it's ready in seconds.\n\nRead more: https://t.co/d9FIOUyLsb https://t.co/G8I8kD2dyT",
+      "created_at": "2026-10-16T17:45:00Z",
+      "likes": 787,
+      "reposts": 317,
+      "replies": 371,
+      "quotes": 70,
+      "views": 182319,
+      "query": "agents"
+    },
+    {
+      "id": "2111158659971699136",
+      "url": "https://x.com/bcherny/status/2111158659971699136",
+      "author": {
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "followers": 604365,
+        "verified": true
+      },
+      "text": "Don't sleep on Claude Slides. This is how I make slide decks now -- no more googling \"iphone frame svg\" like the old days\n\nTry it: https://t.co/cAWdwarzgp https://t.co/POdqFL9oIP",
+      "created_at": "2026-10-16T18:13:42Z",
+      "likes": 759,
+      "reposts": 22,
+      "replies": 59,
+      "quotes": 2,
+      "views": 42944,
+      "query": "claude"
+    },
+    {
+      "id": "2111127599028076885",
+      "url": "https://x.com/icreatelife/status/2111127599028076885",
+      "author": {
+        "handle": "icreatelife",
+        "name": "Kris Kashtanova",
+        "followers": 119547,
+        "verified": true
+      },
+      "text": "My favorite Grok Bot use case so far:\n\nI wake up to hundreds of comments. I try to answer everyone, but some always slip through. Now Grok Bot sends me links to every comment I haven't answered, and I reply to each one myself. No automated replies, just no one left behind 💛 http",
+      "created_at": "2026-10-16T16:10:17Z",
+      "likes": 751,
+      "reposts": 80,
+      "replies": 73,
+      "quotes": 9,
+      "views": 173987,
+      "query": "labs"
+    },
+    {
+      "id": "2111079965529968798",
+      "url": "https://x.com/reflection_ai/status/2111079965529968798",
+      "author": {
+        "handle": "reflection_ai",
+        "name": "Reflection",
+        "followers": 25796,
+        "verified": false
+      },
+      "text": "Beam is now available across platforms, with open weights under the Apache 2.0 license - in collaboration with an ecosystem of 40+ partners.\n\nWe're releasing:\n- Weights, tokenizer, and reference implementation\n- BF16, FP8 and NVFP4 weights and a DFlash2 drafter\n- The open source",
+      "created_at": "2026-10-16T13:01:00Z",
+      "likes": 731,
+      "reposts": 163,
+      "replies": 125,
+      "quotes": 154,
+      "views": 132643,
+      "query": "models"
+    },
+    {
+      "id": "2111158313463525518",
+      "url": "https://x.com/bcherny/status/2111158313463525518",
+      "author": {
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "followers": 604365,
+        "verified": true
+      },
+      "text": "I could not imagine being productive without Claude Code Review. It runs on all of my PRs, and catches almost every bug before it goes it. This is a piece of the secret sauce that lets the team and I move so quickly while raising the quality bar",
+      "created_at": "2026-10-16T18:12:20Z",
+      "likes": 688,
+      "reposts": 16,
+      "replies": 96,
+      "quotes": 6,
+      "views": 41919,
+      "query": "claude"
+    },
+    {
+      "id": "2110991786835333171",
+      "url": "https://x.com/MiaAI_lab/status/2110991786835333171",
+      "author": {
+        "handle": "MiaAI_lab",
+        "name": "Mia",
+        "followers": 40953,
+        "verified": true
+      },
+      "text": "GLM 5.3 FLASH is now FREE in OpenCode 🤯\n\nThis adds to the already free DeepSeek v4.1 Flash.",
+      "created_at": "2026-10-16T07:10:36Z",
+      "likes": 683,
+      "reposts": 24,
+      "replies": 27,
+      "quotes": 2,
+      "views": 23091,
+      "query": "models"
+    },
+    {
+      "id": "2111106647758192915",
+      "url": "https://x.com/kimmonismus/status/2111106647758192915",
+      "author": {
+        "handle": "kimmonismus",
+        "name": "Chubby♨️",
+        "followers": 151217,
+        "verified": true
+      },
+      "text": "This pretty much confirms 1 or 2 new model releases within those 28 days of codex. Rumors were spreading for days. Under no circumstances would they say they were \"cooking\" otherwise.\n\nMy guess: 6.1 Astra as a counter-release to Fable 5.5",
+      "created_at": "2026-10-16T14:47:01Z",
+      "likes": 661,
+      "reposts": 12,
+      "replies": 65,
+      "quotes": 3,
+      "views": 28407,
+      "query": "models"
+    },
+    {
+      "id": "2111142258867335430",
+      "url": "https://x.com/OpenAIDevs/status/2111142258867335430",
+      "author": {
+        "handle": "OpenAIDevs",
+        "name": "OpenAI Developers",
+        "followers": 458155,
+        "verified": true
+      },
+      "text": "Building apps with GPT-Live-1? Give them a voice that fits.\n\nHere’s how to shape a voice with a prompt or choose from new international preset voices: https://t.co/HtMsozvqE7",
+      "created_at": "2026-10-16T17:08:32Z",
+      "likes": 657,
+      "reposts": 41,
+      "replies": 56,
+      "quotes": 16,
+      "views": 36086,
+      "query": "openai"
+    },
+    {
+      "id": "2111131169873867134",
+      "url": "https://x.com/OpeyemiDrift/status/2111131169873867134",
+      "author": {
+        "handle": "OpeyemiDrift",
+        "name": "Opeyemi",
+        "followers": 11319,
+        "verified": true
+      },
+      "text": "Maybe I should tell you guys the story of how I was poached by this AI company to be their Head of Marketing. \n\nOffer… 3M p/m. \n\nWhat would I be marketing? \n\nAn AI data center and and the first fully AI radio station in the world. \n\nOya, where the data center? “The equipment is o",
+      "created_at": "2026-10-16T16:24:28Z",
+      "likes": 633,
+      "reposts": 107,
+      "replies": 102,
+      "quotes": 50,
+      "views": 59700,
+      "query": "agents"
+    },
+    {
+      "id": "2111097012947222571",
+      "url": "https://x.com/tenobrus/status/2111097012947222571",
+      "author": {
+        "handle": "tenobrus",
+        "name": "Tenobrus",
+        "followers": 38236,
+        "verified": true
+      },
+      "text": "it's unfortunately looking pretty bad for nick's mechinterp breakthrough. maybe claude was only showing him what he wanted to see.",
+      "created_at": "2026-10-16T14:08:44Z",
+      "likes": 632,
+      "reposts": 10,
+      "replies": 29,
+      "quotes": 2,
+      "views": 42945,
+      "query": "claude"
+    },
+    {
+      "id": "2111103987579535848",
+      "url": "https://x.com/RapidResponse47/status/2111103987579535848",
+      "author": {
+        "handle": "RapidResponse47",
+        "name": "Rapid Response 47",
+        "followers": 2325837,
+        "verified": true
+      },
+      "text": "Saudi National Arrested for Installing Surreptitious Audio Recording Device at OpenAI https://t.co/XaBtk0ykPD",
+      "created_at": "2026-10-16T14:36:27Z",
+      "likes": 626,
+      "reposts": 154,
+      "replies": 35,
+      "quotes": 8,
+      "views": 48619,
+      "query": "openai"
+    },
+    {
+      "id": "2111147479248855484",
+      "url": "https://x.com/GeminiApp/status/2111147479248855484",
+      "author": {
+        "handle": "GeminiApp",
+        "name": "Google Gemini",
+        "followers": 594425,
+        "verified": true
+      },
+      "text": "With Gemini 4 Argon, you can use Canvas to turn dense PDFs into interactive, animated web apps you can explore at your own pace.",
+      "created_at": "2026-10-16T17:29:16Z",
+      "likes": 620,
+      "reposts": 47,
+      "replies": 57,
+      "quotes": 10,
+      "views": 32377,
+      "query": "labs"
+    },
+    {
+      "id": "2111168901723906176",
+      "url": "https://x.com/ClaudeDevs/status/2111168901723906176",
+      "author": {
+        "handle": "ClaudeDevs",
+        "name": "ClaudeDevs",
+        "followers": 753690,
+        "verified": true
+      },
+      "text": "Claude writes about 90% of Claude Code's code.\n\nFrom June to September, merged PRs more than doubled while the share reverted fell by more than 40%.\n\nWe wrote about how we changed code review to get there, and how to adopt it:\n\nhttps://t.co/9sZe64g3mb",
+      "created_at": "2026-10-16T18:54:24Z",
+      "likes": 608,
+      "reposts": 30,
+      "replies": 48,
+      "quotes": 20,
+      "views": 22739,
+      "query": "claude"
+    },
+    {
+      "id": "2111113799877243198",
+      "url": "https://x.com/hopes_revenge/status/2111113799877243198",
+      "author": {
+        "handle": "hopes_revenge",
+        "name": "hope hopes hoping",
+        "followers": 246700,
+        "verified": true
+      },
+      "text": "meanwhile  at  Anthropic https://t.co/qr6PVpcosC",
+      "created_at": "2026-10-16T15:15:27Z",
+      "likes": 588,
+      "reposts": 19,
+      "replies": 8,
+      "quotes": 3,
+      "views": 12987,
+      "query": "claude"
+    },
+    {
+      "id": "2111142186968584233",
+      "url": "https://x.com/imagine/status/2111142186968584233",
+      "author": {
+        "handle": "imagine",
+        "name": "Grok Imagine",
+        "followers": 85853,
+        "verified": true
+      },
+      "text": "To the limits of imagination https://t.co/ReU3jRsPm9",
+      "created_at": "2026-10-16T17:08:15Z",
+      "likes": 577,
+      "reposts": 69,
+      "replies": 36,
+      "quotes": 6,
+      "views": 40827,
+      "query": "labs"
+    },
+    {
+      "id": "2111115820969627873",
+      "url": "https://x.com/edzitron/status/2111115820969627873",
+      "author": {
+        "handle": "edzitron",
+        "name": "Ed Zitron",
+        "followers": 156543,
+        "verified": true
+      },
+      "text": "been saying this years! none of these are real businesses, which makes the fact they raise so much money every few months all the more worrying",
+      "created_at": "2026-10-16T15:23:29Z",
+      "likes": 572,
+      "reposts": 65,
+      "replies": 9,
+      "quotes": 1,
+      "views": 12791,
+      "query": "claude"
+    },
+    {
+      "id": "2111054730038583485",
+      "url": "https://x.com/celestia/status/2111054730038583485",
+      "author": {
+        "handle": "celestia",
+        "name": "Celestia",
+        "followers": 362471,
+        "verified": true
+      },
+      "text": "Introducing Eden: a high-performance EVM chain on Celestia that we use as a sandbox for agentic commerce experiments. https://t.co/H4ddmyc51g",
+      "created_at": "2026-10-16T11:20:43Z",
+      "likes": 554,
+      "reposts": 115,
+      "replies": 40,
+      "quotes": 31,
+      "views": 42314,
+      "query": "agents"
+    },
+    {
+      "id": "2111109487549718821",
+      "url": "https://x.com/MTSlive/status/2111109487549718821",
+      "author": {
+        "handle": "MTSlive",
+        "name": "MTS",
+        "followers": 561165,
+        "verified": false
+      },
+      "text": "SITUATION DETECTED: AI agents under evaluation have gained access to personal, business, and confidential information from multiple organizations in India. The incidents went undetected, and have been discovered through voluntary disclosures from unnamed AI model providers.",
+      "created_at": "2026-10-16T14:58:19Z",
+      "likes": 550,
+      "reposts": 40,
+      "replies": 30,
+      "quotes": 20,
+      "views": 27875,
+      "query": "agents"
+    },
+    {
+      "id": "2111029595168538686",
+      "url": "https://x.com/UltraLinx/status/2111029595168538686",
+      "author": {
+        "handle": "UltraLinx",
+        "name": "Oliur",
+        "followers": 125332,
+        "verified": true
+      },
+      "text": "Now that OpenCode are giving access to DeepSeek V4.1 Flash and GLM 5.3 Flash for FREE, how do these even compare to something like Claude or Codex?\n\nIt seems to good to be true? Or what am I missing here?",
+      "created_at": "2026-10-16T09:40:51Z",
+      "likes": 501,
+      "reposts": 7,
+      "replies": 82,
+      "quotes": 4,
+      "views": 50158,
+      "query": "models"
+    },
+    {
+      "id": "2111111329536987234",
+      "url": "https://x.com/AravSrinivas/status/2111111329536987234",
+      "author": {
+        "handle": "AravSrinivas",
+        "name": "Aravind Srinivas",
+        "followers": 1169698,
+        "verified": true
+      },
+      "text": "Gemini 4 Argon is a frontier model and has set a new SoTA on Wide-And-Deep-Research (WANDR) benchmark. Available now to all Perplexity users both on fast search and Computer (agent) modes.",
+      "created_at": "2026-10-16T15:05:38Z",
+      "likes": 494,
+      "reposts": 25,
+      "replies": 76,
+      "quotes": 4,
+      "views": 25760,
+      "query": "labs"
+    },
+    {
+      "id": "2111120760660254842",
+      "url": "https://x.com/Belbizaz/status/2111120760660254842",
+      "author": {
+        "handle": "Belbizaz",
+        "name": "Frog King Simulator",
+        "followers": 959,
+        "verified": true
+      },
+      "text": "20 days in and I still haven't looked at a single line of code. \n\nAll made in a single continuous Claude code chat with autocompact set at 250k\n\nNo Blender \n\nJust opus 5.5 and @threejs https://t.co/OGIV7EMvvU",
+      "created_at": "2026-10-16T15:43:06Z",
+      "likes": 472,
+      "reposts": 27,
+      "replies": 69,
+      "quotes": 10,
+      "views": 25066,
+      "query": "claude"
+    },
+    {
+      "id": "2111038207240388770",
+      "url": "https://x.com/GoogleDeepMind/status/2111038207240388770",
+      "author": {
+        "handle": "GoogleDeepMind",
+        "name": "Google DeepMind",
+        "followers": 1572377,
+        "verified": false
+      },
+      "text": "Together with scientists around the world, our models and tools are helping make disease more detectable, treatable, and preventable. 🧬\n\nFrom pinpointing rare genetic variants to speeding up drug discovery, here’s how we’re helping turn lab breakthroughs into real-world care → h",
+      "created_at": "2026-10-16T10:15:04Z",
+      "likes": 470,
+      "reposts": 46,
+      "replies": 110,
+      "quotes": 15,
+      "views": 40036,
+      "query": "labs"
+    },
+    {
+      "id": "2111104661482848733",
+      "url": "https://x.com/im_ab2000/status/2111104661482848733",
+      "author": {
+        "handle": "im_ab2000",
+        "name": "Abhishek",
+        "followers": 3172,
+        "verified": true
+      },
+      "text": "Hello @grok if you were human, what body would you choose ? 🤔 https://t.co/cD00wv0A9u",
+      "created_at": "2026-10-16T14:39:08Z",
+      "likes": 464,
+      "reposts": 58,
+      "replies": 62,
+      "quotes": 4,
+      "views": 17102,
+      "query": "labs"
+    },
+    {
+      "id": "2111100241680441779",
+      "url": "https://x.com/ErickSky/status/2111100241680441779",
+      "author": {
+        "handle": "ErickSky",
+        "name": "Erick",
+        "followers": 40415,
+        "verified": true
+      },
+      "text": "Pagar Claude Opus 5.5 para motion?\n\nNo bro, yo uso DeepSeek 4.1 Flash. https://t.co/4KihFI4DyQ",
+      "created_at": "2026-10-16T14:21:34Z",
+      "likes": 435,
+      "reposts": 17,
+      "replies": 13,
+      "quotes": 1,
+      "views": 10450,
+      "query": "claude"
+    },
+    {
+      "id": "2111062924974498059",
+      "url": "https://x.com/QwenDevs/status/2111062924974498059",
+      "author": {
+        "handle": "QwenDevs",
+        "name": "Qwen Developers",
+        "followers": 22437,
+        "verified": true
+      },
+      "text": "We're co-hosting Open Together with @huggingface  this Friday in San Francisco! Doors open at 6PM, RSVP: https://t.co/H0W5p2oUET\n\nSee you guys there! https://t.co/bF3vu0FMaX",
+      "created_at": "2026-10-16T11:53:17Z",
+      "likes": 425,
+      "reposts": 30,
+      "replies": 30,
+      "quotes": 15,
+      "views": 27926,
+      "query": "models"
+    },
+    {
+      "id": "2111087606759030831",
+      "url": "https://x.com/ArtificialAnlys/status/2111087606759030831",
+      "author": {
+        "handle": "ArtificialAnlys",
+        "name": "Artificial Analysis",
+        "followers": 160726,
+        "verified": true
+      },
+      "text": "Reflection’s first model, Beam, scores 30 on the Artificial Analysis Intelligence Index, placing it #2 among US open weights models\n\nBeam is an open weights model with 501B total and 23B active parameters, released on @huggingface \n\nCongratulations to @reflection_ai on the releas",
+      "created_at": "2026-10-16T13:31:22Z",
+      "likes": 412,
+      "reposts": 36,
+      "replies": 52,
+      "quotes": 26,
+      "views": 36509,
+      "query": "openai"
+    },
+    {
+      "id": "2111110772747321460",
+      "url": "https://x.com/perplexity_ai/status/2111110772747321460",
+      "author": {
+        "handle": "perplexity_ai",
+        "name": "Perplexity",
+        "followers": 508437,
+        "verified": true
+      },
+      "text": "Gemini 4 Argon sets a new record on WANDR.\n\nIt is now available in Perplexity for Pro and Max subscribers. https://t.co/n1TyI9RhBX",
+      "created_at": "2026-10-16T15:03:25Z",
+      "likes": 401,
+      "reposts": 27,
+      "replies": 44,
+      "quotes": 19,
+      "views": 44538,
+      "query": "labs"
+    },
+    {
+      "id": "2111128797181567466",
+      "url": "https://x.com/DrJimFan/status/2111128797181567466",
+      "author": {
+        "handle": "DrJimFan",
+        "name": "Jim Fan",
+        "followers": 599475,
+        "verified": true
+      },
+      "text": "We are open-sourcing V1.0 of our agentic robotics framework, ASPIRE, with full real robot skill discovery and self improvement capabilities! On the day Astra arrived, our lab switched the backend model and saturated all the benchmarks to ~99% over night.\n\nAnd the frontier is alre",
+      "created_at": "2026-10-16T16:15:02Z",
+      "likes": 399,
+      "reposts": 51,
+      "replies": 72,
+      "quotes": 14,
+      "views": 20702,
+      "query": "agents"
+    },
+    {
+      "id": "2111115681790152707",
+      "url": "https://x.com/as400495/status/2111115681790152707",
+      "author": {
+        "handle": "as400495",
+        "name": "Edward Coristine",
+        "followers": 69435,
+        "verified": true
+      },
+      "text": "New model dropping later today\n\nJust did my final review of the weights https://t.co/VsBoJx8nhN",
+      "created_at": "2026-10-16T15:22:55Z",
+      "likes": 374,
+      "reposts": 14,
+      "replies": 10,
+      "quotes": 2,
+      "views": 9600,
+      "query": "models"
+    },
+    {
+      "id": "2111126269471457638",
+      "url": "https://x.com/vxunderground/status/2111126269471457638",
+      "author": {
+        "handle": "vxunderground",
+        "name": "vx-underground",
+        "followers": 454647,
+        "verified": true
+      },
+      "text": "I become so unbelievably annoyed at obvious clanker comments\n\nSeriously bro? Your existence is so empty, hollow, and meaningless, that you need AI to be active for you on social media?\n\nMaybe I could find solace if your intent was malicious, if you were using AI to inflate your s",
+      "created_at": "2026-10-16T16:05:00Z",
+      "likes": 366,
+      "reposts": 16,
+      "replies": 26,
+      "quotes": 0,
+      "views": 11332,
+      "query": "agents"
+    },
+    {
+      "id": "2111049407034429557",
+      "url": "https://x.com/pushmeet/status/2111049407034429557",
+      "author": {
+        "handle": "pushmeet",
+        "name": "Pushmeet Kohli",
+        "followers": 29806,
+        "verified": true
+      },
+      "text": "At @GoogleDeepMind, we believe one of AI's most transformative impacts is empowering scientists to solve society's hardest problems.\n\nOver the past year, we've evolved our coding agent, @Google @Antigravity, to accelerate end-to-end scientific workflows combining our latest Gemin",
+      "created_at": "2026-10-16T10:59:34Z",
+      "likes": 361,
+      "reposts": 32,
+      "replies": 21,
+      "quotes": 3,
+      "views": 11071,
+      "query": "labs"
+    },
+    {
+      "id": "2110991394605044033",
+      "url": "https://x.com/mybroadband/status/2110991394605044033",
+      "author": {
+        "handle": "mybroadband",
+        "name": "MyBroadband",
+        "followers": 115012,
+        "verified": true
+      },
+      "text": "The CEO of coffee franchise Bootlegger appears to have encouraged or directly developed a web dashboard using Claude that exposes sensitive company and franchisee data.\nhttps://t.co/ifc10kRgcV",
+      "created_at": "2026-10-16T07:09:03Z",
+      "likes": 351,
+      "reposts": 78,
+      "replies": 35,
+      "quotes": 55,
+      "views": 88156,
+      "query": "claude"
+    },
+    {
+      "id": "2111034424913789010",
+      "url": "https://x.com/AJEnglish/status/2111034424913789010",
+      "author": {
+        "handle": "AJEnglish",
+        "name": "Al Jazeera English",
+        "followers": 10094589,
+        "verified": true
+      },
+      "text": "Vibe coding allows people to use AI to build software without writing code themselves. And now, free AI-generated alternatives to popular programmes like Premiere Pro and Excel are emerging, sparking security concerns and hidden costs.\n\nAl Jazeera’s Farah Samir explains. https://",
+      "created_at": "2026-10-16T10:00:02Z",
+      "likes": 320,
+      "reposts": 70,
+      "replies": 13,
+      "quotes": 8,
+      "views": 59666,
+      "query": "agents"
+    },
+    {
+      "id": "2111047990630572498",
+      "url": "https://x.com/Behi_Sec/status/2111047990630572498",
+      "author": {
+        "handle": "Behi_Sec",
+        "name": "Behi",
+        "followers": 6792,
+        "verified": true
+      },
+      "text": "We’re seriously underestimating DeepSeek V4.1 Flash’s capabilities in cybersecurity.\n\nGive this model the right instructions and direction, and it’ll uncover vulnerabilities you’d never expect it to find in a million years.",
+      "created_at": "2026-10-16T10:53:56Z",
+      "likes": 320,
+      "reposts": 8,
+      "replies": 24,
+      "quotes": 0,
+      "views": 12764,
+      "query": "models"
+    },
+    {
+      "id": "2111081408689258745",
+      "url": "https://x.com/DAlperovitch/status/2111081408689258745",
+      "author": {
+        "handle": "DAlperovitch",
+        "name": "Dmitri Alperovitch",
+        "followers": 202442,
+        "verified": true
+      },
+      "text": "This is wrong. China to this day doesn’t have a Mythos-equivalent model. Mythos was trained in February. They are at a minimum 9 months behind and have been consistently since the release of DeepSeek in Jan 2025",
+      "created_at": "2026-10-16T13:06:44Z",
+      "likes": 317,
+      "reposts": 21,
+      "replies": 23,
+      "quotes": 4,
+      "views": 30103,
+      "query": "models"
+    },
+    {
+      "id": "2111157145102397817",
+      "url": "https://x.com/chetaslua/status/2111157145102397817",
+      "author": {
+        "handle": "chetaslua",
+        "name": "Chetaslua",
+        "followers": 40616,
+        "verified": true
+      },
+      "text": "WTF 😬 \n\nEnd of vibe coding , welcome to the era of cuck coding , you just have to sit on chair - Fable 5.5\n\nPure python code in blender with eleven labs , and I just provided the x video of launch https://t.co/Onf4VU6DHt",
+      "created_at": "2026-10-16T18:07:41Z",
+      "likes": 301,
+      "reposts": 10,
+      "replies": 27,
+      "quotes": 3,
+      "views": 8792,
+      "query": "agents"
+    },
+    {
+      "id": "2111105495540871641",
+      "url": "https://x.com/softestt_cloud/status/2111105495540871641",
+      "author": {
+        "handle": "softestt_cloud",
+        "name": "The Inimitable",
+        "followers": 41331,
+        "verified": true
+      },
+      "text": "Hey @grok , Remove the fighter jet that would lose in highest aerial combat. \n\nAnd Explain why they lose. https://t.co/6lQS0RuJbt",
+      "created_at": "2026-10-16T14:42:27Z",
+      "likes": 300,
+      "reposts": 20,
+      "replies": 6,
+      "quotes": 0,
+      "views": 6224,
+      "query": "labs"
+    },
+    {
+      "id": "2111148172160430356",
+      "url": "https://x.com/astroinrealtime/status/2111148172160430356",
+      "author": {
+        "handle": "astroinrealtime",
+        "name": "astro in real time",
+        "followers": 141342,
+        "verified": true
+      },
+      "text": "gemini, stop playing it cool. flirt with them already.",
+      "created_at": "2026-10-16T17:32:02Z",
+      "likes": 296,
+      "reposts": 17,
+      "replies": 9,
+      "quotes": 31,
+      "views": 6667,
+      "query": "labs"
+    },
+    {
+      "id": "2111110444190458288",
+      "url": "https://x.com/ama_protocol/status/2111110444190458288",
+      "author": {
+        "handle": "ama_protocol",
+        "name": "Amadeus Protocol",
+        "followers": 128507,
+        "verified": true
+      },
+      "text": "AI Agent SKILLS\n\nAdd with 1-Click \n-or-\nCreate your own Skill\nUsing plain language\n\nWide array of Skills on AMA Hub\nInstantly powering up your toolkit to be the best:\n→ Market Analyst\n→ Yield Optimizer \n→ Alpha Hunter\n→ Arbitrage Finder\n→ Perps Trader & More\n\nRuns on all chains l",
+      "created_at": "2026-10-16T15:02:07Z",
+      "likes": 292,
+      "reposts": 238,
+      "replies": 244,
+      "quotes": 13,
+      "views": 2955,
+      "query": "agents"
+    },
+    {
+      "id": "2111120303619481877",
+      "url": "https://x.com/adocomplete/status/2111120303619481877",
+      "author": {
+        "handle": "adocomplete",
+        "name": "Ado",
+        "followers": 35154,
+        "verified": true
+      },
+      "text": "New in Claude Code: idle compaction\n\nThe prompt cache lives 1h. Leave a 200K+ token session idle ~54 min and it gets auto-compacted, so you come back to a warm summary, not a cold re-cache.\n\nSet the Threshold: CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS\nTurn Off: \"idleCompaction\": false",
+      "created_at": "2026-10-16T15:41:17Z",
+      "likes": 280,
+      "reposts": 12,
+      "replies": 44,
+      "quotes": 12,
+      "views": 16768,
+      "query": "claude"
+    },
+    {
+      "id": "2111143814782173621",
+      "url": "https://x.com/clawpumptech/status/2111143814782173621",
+      "author": {
+        "handle": "clawpumptech",
+        "name": "clawpump",
+        "followers": 13636,
+        "verified": true
+      },
+      "text": "The largest agentic hackathon ever just concluded.\n\n$350K in cash, inference & token awards, operated by Clawpump, supported by @blknoiz06, @solana, @UsePodAI and @Pumpfun. \n\nIn one month: $50M+ in volume, $500K in creator fees paid out to 200+ builders, and the ecosystem's marke",
+      "created_at": "2026-10-16T17:14:43Z",
+      "likes": 276,
+      "reposts": 97,
+      "replies": 87,
+      "quotes": 34,
+      "views": 24364,
+      "query": "agents"
+    },
+    {
+      "id": "2111151636429341163",
+      "url": "https://x.com/tszzl/status/2111151636429341163",
+      "author": {
+        "handle": "tszzl",
+        "name": "roon",
+        "followers": 505967,
+        "verified": true
+      },
+      "text": "this is definitely “polysemantic”. it’s important to note this so critics don’t accuse you of drawing schizophrenic connections to support any theory. but if you read Nick’s paper he claims that some qwen neurons have a second unrelated smaller peak; that is still a much better i",
+      "created_at": "2026-10-16T17:45:48Z",
+      "likes": 273,
+      "reposts": 14,
+      "replies": 19,
+      "quotes": 3,
+      "views": 12712,
+      "query": "models"
+    },
+    {
+      "id": "2111139646398734405",
+      "url": "https://x.com/WhaleInsider/status/2111139646398734405",
+      "author": {
+        "handle": "WhaleInsider",
+        "name": "Whale Insider",
+        "followers": 677198,
+        "verified": true
+      },
+      "text": "JUST IN: OpenAI CEO Sam Altman praises $TSLA new Roadster, says it 'looks amazing' and tells Elon Musk 'good job.' https://t.co/bgRajrolx6",
+      "created_at": "2026-10-16T16:58:09Z",
+      "likes": 245,
+      "reposts": 11,
+      "replies": 25,
+      "quotes": 4,
+      "views": 24779,
+      "query": "openai"
+    },
+    {
+      "id": "2111153920244330664",
+      "url": "https://x.com/ByteEcosystem/status/2111153920244330664",
+      "author": {
+        "handle": "ByteEcosystem",
+        "name": "Byte",
+        "followers": 243008,
+        "verified": true
+      },
+      "text": "NEW - Anthropic says its Claude Mythos AI model designed quantum circuits that could advance quantum computing sooner. https://t.co/RinR2RJEMp",
+      "created_at": "2026-10-16T17:54:52Z",
+      "likes": 244,
+      "reposts": 17,
+      "replies": 8,
+      "quotes": 4,
+      "views": 27494,
+      "query": "claude"
+    },
+    {
+      "id": "2111119033319760073",
+      "url": "https://x.com/corentAI/status/2111119033319760073",
+      "author": {
+        "handle": "corentAI",
+        "name": "corent",
+        "followers": 2653,
+        "verified": true
+      },
+      "text": "Every prompt is a race.\n\nModels compete on speed, cost, and intelligence.\n\nCorent makes the decision in real time, routing every task to the model best equipped to handle it.\n\nNo fixed winner. No model loyalty.\n\nJust the best execution for every prompt. https://t.co/o7prBsdzv7",
+      "created_at": "2026-10-16T15:36:14Z",
+      "likes": 243,
+      "reposts": 50,
+      "replies": 13,
+      "quotes": 0,
+      "views": 1259,
+      "query": "models"
+    },
+    {
+      "id": "2111106860468285931",
+      "url": "https://x.com/SAIRfoundation/status/2111106860468285931",
+      "author": {
+        "handle": "SAIRfoundation",
+        "name": "SAIR",
+        "followers": 4994,
+        "verified": true
+      },
+      "text": "The math community deserves its own AI system.\n\nIntroducing Open Math OS: the infrastructure for Math 2.0.\n\nOpen models and AI agents. 24/7 cloud compute with 100+ tools. The community controls its data.\n\nCompute is free for approved teams. Apply now:\nhttps://t.co/uOW85tOwqU",
+      "created_at": "2026-10-16T14:47:52Z",
+      "likes": 228,
+      "reposts": 46,
+      "replies": 14,
+      "quotes": 11,
+      "views": 21212,
+      "query": "agents"
+    },
+    {
+      "id": "2111127550504153259",
+      "url": "https://x.com/DuckDuckGo/status/2111127550504153259",
+      "author": {
+        "handle": "DuckDuckGo",
+        "name": "DuckDuckGo",
+        "followers": 2644289,
+        "verified": true
+      },
+      "text": "A new model just joined the flock: GPT‑6 Luna! \n\nTry OpenAI’s most efficient GPT‑6 model on https://t.co/b52tYBjDPI; it’s free, anonymous, and (like all AI on DuckDuckGo) totally optional. No account needed.\n\nFind the AI that works for you on https://t.co/b52tYBjDPI. https://t.co",
+      "created_at": "2026-10-16T16:10:05Z",
+      "likes": 222,
+      "reposts": 13,
+      "replies": 9,
+      "quotes": 5,
+      "views": 19475,
+      "query": "models"
+    },
+    {
+      "id": "2111080268618477732",
+      "url": "https://x.com/bernhardsson/status/2111080268618477732",
+      "author": {
+        "handle": "bernhardsson",
+        "name": "Erik Bernhardsson",
+        "followers": 59931,
+        "verified": true
+      },
+      "text": "I met approximately 1e3 neolabs in London started by ex-DeepMind researchers. Quite bullish on the city.",
+      "created_at": "2026-10-16T13:02:12Z",
+      "likes": 215,
+      "reposts": 9,
+      "replies": 18,
+      "quotes": 2,
+      "views": 13823,
+      "query": "labs"
+    },
+    {
+      "id": "2111105144628613454",
+      "url": "https://x.com/CoinMarketCap/status/2111105144628613454",
+      "author": {
+        "handle": "CoinMarketCap",
+        "name": "CoinMarketCap",
+        "followers": 7100865,
+        "verified": true
+      },
+      "text": "LATEST: 🤖 Vitalik Buterin says he’s built a “paranoid mode” for AI agents that routes them through Tor, masks requests with cover traffic, uses zkAPI for anonymous payments, and rewrites prompts with a local LLM. https://t.co/nheZ4BlmBP",
+      "created_at": "2026-10-16T14:41:03Z",
+      "likes": 213,
+      "reposts": 13,
+      "replies": 41,
+      "quotes": 9,
+      "views": 46417,
+      "query": "agents"
+    },
+    {
+      "id": "2111161055040688624",
+      "url": "https://x.com/edzitron/status/2111161055040688624",
+      "author": {
+        "handle": "edzitron",
+        "name": "Ed Zitron",
+        "followers": 156545,
+        "verified": true
+      },
+      "text": "i love that they're just using the term agentic to refer to literally any kind of bot",
+      "created_at": "2026-10-16T18:23:13Z",
+      "likes": 207,
+      "reposts": 11,
+      "replies": 12,
+      "quotes": 0,
+      "views": 5915,
+      "query": "agents"
+    },
+    {
+      "id": "2110999826359844873",
+      "url": "https://x.com/tokumatoshi/status/2110999826359844873",
+      "author": {
+        "handle": "tokumatoshi",
+        "name": "Takumatoshi",
+        "followers": 430,
+        "verified": true
+      },
+      "text": "Breaking: World ID plugin is already live in Codex 👀\nyou can now prove you're human right inside OpenAI's tools\nmuch more to come. this may be the beginning of something big 🌍 $WLD\n\nhow to install: just tell Codex\n\"Install this plugin: https://t.co/lXLsqvWFgr\"\nthen say \"Connect",
+      "created_at": "2026-10-16T07:42:33Z",
+      "likes": 205,
+      "reposts": 37,
+      "replies": 18,
+      "quotes": 20,
+      "views": 31447,
+      "query": "openai"
+    },
+    {
+      "id": "2111125014074564889",
+      "url": "https://x.com/Kalshi_Finance/status/2111125014074564889",
+      "author": {
+        "handle": "Kalshi_Finance",
+        "name": "Kalshi Finance",
+        "followers": 108940,
+        "verified": true
+      },
+      "text": "JUST IN: Anthropic secures a BB+ credit rating as Wall Street prepares $60 billion in AI financing",
+      "created_at": "2026-10-16T16:00:00Z",
+      "likes": 205,
+      "reposts": 15,
+      "replies": 8,
+      "quotes": 4,
+      "views": 17871,
+      "query": "claude"
+    },
+    {
+      "id": "2111093058024755365",
+      "url": "https://x.com/omarsar0/status/2111093058024755365",
+      "author": {
+        "handle": "omarsar0",
+        "name": "elvis",
+        "followers": 324740,
+        "verified": true
+      },
+      "text": "Banger paper from Google DeepMind on long-horizon multi-agent coding.\n\n(bookmark it)\n\nThey report that, to the best of their knowledge, this is the first end-to-end autonomous completion of Minecraft by AI agents.\n\nThey report that four Gemini 4 Argon agents beat Minecraft end-to",
+      "created_at": "2026-10-16T13:53:01Z",
+      "likes": 204,
+      "reposts": 31,
+      "replies": 70,
+      "quotes": 4,
+      "views": 10240,
+      "query": "agents"
+    },
+    {
+      "id": "2111029430080725196",
+      "url": "https://x.com/OpenDesignHQ/status/2111029430080725196",
+      "author": {
+        "handle": "OpenDesignHQ",
+        "name": "OpenDesign",
+        "followers": 24129,
+        "verified": true
+      },
+      "text": "DeepSeek v4.1 Flash can now create stunning motion videos on par with Opus 5.5—with OpenDesign Motion.\n\nWe asked OpenDesign Motion to make its own launch video. Here's the result.\n\nDemo 2 ↘️ https://t.co/5FJLCzveD1",
+      "created_at": "2026-10-16T09:40:11Z",
+      "likes": 199,
+      "reposts": 12,
+      "replies": 5,
+      "quotes": 2,
+      "views": 10742,
+      "query": "models"
+    },
+    {
+      "id": "2111147698489643356",
+      "url": "https://x.com/AndrewCurran_/status/2111147698489643356",
+      "author": {
+        "handle": "AndrewCurran_",
+        "name": "Andrew Curran",
+        "followers": 108715,
+        "verified": true
+      },
+      "text": "Quoting from Anthropic's Michael Sellitto at the IMF Artificial Intelligence and Escalating Cyber Risks panel today. This is the first time Anthropic has given a projection for what percentage of frontier model training will be done by Claude in 2027. In March this number was 1%.",
+      "created_at": "2026-10-16T17:30:09Z",
+      "likes": 197,
+      "reposts": 18,
+      "replies": 22,
+      "quotes": 3,
+      "views": 9558,
+      "query": "models"
+    },
+    {
+      "id": "2111121865460908127",
+      "url": "https://x.com/piyushgarg_dev/status/2111121865460908127",
+      "author": {
+        "handle": "piyushgarg_dev",
+        "name": "Piyush Garg",
+        "followers": 37260,
+        "verified": true
+      },
+      "text": "Anyone vibe coding Razorpay? \nI really really want one.\nBecause existing Razorpay neither has vibe nor code 😢",
+      "created_at": "2026-10-16T15:47:30Z",
+      "likes": 180,
+      "reposts": 1,
+      "replies": 39,
+      "quotes": 4,
+      "views": 8150,
+      "query": "agents"
+    },
+    {
+      "id": "2111039517935481202",
+      "url": "https://x.com/rickyhorwitz/status/2111039517935481202",
+      "author": {
+        "handle": "rickyhorwitz",
+        "name": "Ricky Horwitz",
+        "followers": 101,
+        "verified": true
+      },
+      "text": "If your headline is \"Agentic Layer for Healthcare\" you've already burned the two seconds you had. \n\nOld school advertising figured this out decades ago: \n\n\"You are unhealthy. You don't have to be.\" Say the thing the customer feels and save the architecture for slide 9.",
+      "created_at": "2026-10-16T10:20:16Z",
+      "likes": 176,
+      "reposts": 54,
+      "replies": 0,
+      "quotes": 0,
+      "views": 106061,
+      "query": "agents"
+    },
+    {
+      "id": "2111124548397457807",
+      "url": "https://x.com/LUCKYY10P/status/2111124548397457807",
+      "author": {
+        "handle": "LUCKYY10P",
+        "name": "LUCKYY10P",
+        "followers": 97080,
+        "verified": true
+      },
+      "text": "Can I apply to be CEO of the vibe coding department?",
+      "created_at": "2026-10-16T15:58:09Z",
+      "likes": 172,
+      "reposts": 6,
+      "replies": 5,
+      "quotes": 0,
+      "views": 5837,
+      "query": "agents"
+    },
+    {
+      "id": "2111064802923880873",
+      "url": "https://x.com/propxwealth/status/2111064802923880873",
+      "author": {
+        "handle": "propxwealth",
+        "name": "Prop Wealth",
+        "followers": 23272,
+        "verified": true
+      },
+      "text": "Hey @grok Please choose on random person from comments in the next 3 hours, who get free $10k Select + from @MyFundedPerps ;\n\nUse code: WEALTHX\n(30% OFF + 10% Instant Cashback)",
+      "created_at": "2026-10-16T12:00:45Z",
+      "likes": 163,
+      "reposts": 60,
+      "replies": 250,
+      "quotes": 0,
+      "views": 8132,
+      "query": "labs"
+    },
+    {
+      "id": "2111101555462340632",
+      "url": "https://x.com/aiwithsally/status/2111101555462340632",
+      "author": {
+        "handle": "aiwithsally",
+        "name": "Sally Stockholm",
+        "followers": 244738,
+        "verified": true
+      },
+      "text": "I built an automated report generator that runs entirely on my own machine.\n\nInput: structured data + charts.\nOutput: a full long-form report — earnings interpretation, weekly summaries, whatever you need.\n\nNo API. No cloud. No monthly bill. ->\n\nHere's MiniCPM-V 4.7 35B-A3B doing",
+      "created_at": "2026-10-16T14:26:47Z",
+      "likes": 159,
+      "reposts": 33,
+      "replies": 44,
+      "quotes": 0,
+      "views": 11140,
+      "query": "models"
+    },
+    {
+      "id": "2111141983922344409",
+      "url": "https://x.com/Yuchenj_UW/status/2111141983922344409",
+      "author": {
+        "handle": "Yuchenj_UW",
+        "name": "Yuchen Jin",
+        "followers": 306370,
+        "verified": true
+      },
+      "text": "AI tokenomics today:\n\nfrontier lab RSI researcher: $10,000/day\n\nstartup founder in sf: $3,000/day\n\nsoftware engineer: $300/day\n\nmy mom in China: “Can you teach me how to download DeepSeek? I saw it on the news.”",
+      "created_at": "2026-10-16T17:07:26Z",
+      "likes": 159,
+      "reposts": 4,
+      "replies": 28,
+      "quotes": 3,
+      "views": 7677,
+      "query": "models"
+    },
+    {
+      "id": "2111077210928926894",
+      "url": "https://x.com/CoinMarketCap/status/2111077210928926894",
+      "author": {
+        "handle": "CoinMarketCap",
+        "name": "CoinMarketCap",
+        "followers": 7100865,
+        "verified": true
+      },
+      "text": "🤖 CoinMarketCap | Agentic Charts 🤖\n \nInjective ($INJ) is up 26% in 24 hours and tops CMC's trending list, after the team said its CEO met White House, SEC and CFTC officials.\nWe asked our agent to map the rally's trend channel.\n \n🔹 The channel starts at the 16 Sep low of $5.15",
+      "created_at": "2026-10-16T12:50:03Z",
+      "likes": 152,
+      "reposts": 19,
+      "replies": 36,
+      "quotes": 0,
+      "views": 34312,
+      "query": "agents"
+    }
+  ]
+}
